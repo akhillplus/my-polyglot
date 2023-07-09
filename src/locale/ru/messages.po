@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-10 16:12+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/App.js:141
+msgid "Something went wrong. Please, try again later."
+msgstr ""
+
+#: src/App.js:142
+msgid "Reload"
+msgstr ""
+
+#: src/App.js:232
+msgid "This site uses cookies. See our <0>Privacy policy</0>."
+msgstr ""
+
+#: src/components/ComboBoxes.js:34
+msgid "items by"
+msgstr ""
+
+#: src/components/ComboBoxes.js:150
+msgid "Subscriptions ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:151
+msgid "Subscriptions ↑"
+msgstr ""
+
+#: src/components/ComboBoxes.js:152
+msgid "Name ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:153
+msgid "Name ↑"
+msgstr ""
+
+#: src/components/ComboBoxes.js:154
+msgid "Items ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:155
+msgid "Items ↑"
+msgstr ""
+
+#: src/components/ComboBoxes.js:156
+msgid "Size ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:157
+msgid "Size ↑"
+msgstr ""
+
+#: src/components/ComboBoxes.js:158
+msgid "Created ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:159
+msgid "Created ↑"
+msgstr ""
+
+#: src/components/ComboBoxes.js:160
+msgid "Updated ↓"
+msgstr ""
+
+#: src/components/ComboBoxes.js:161
+msgid "Updated ↑"
+msgstr ""
+
+#: src/components/Dashboard.js:285
+msgid "Register"
+msgstr ""
+
+#: src/components/Dashboard.js:292
+msgid "Login"
+msgstr ""
+
+#: src/components/Dashboard.js:306
+msgid "Logout"
+msgstr ""
+
+#: src/components/DictionaryControl.js:679
+msgid "Save changes?"
+msgstr ""
+
+#: src/components/DictionaryControl.js:733
+msgid "Word list settings"
+msgstr ""
+
+#: src/components/DictionaryControl.js:740
+msgid "Restore"
+msgstr ""
+
+#: src/components/DictionaryControl.js:745
+msgid "Save"
+msgstr ""
+
+#: src/components/DictionaryControl.js:829
+msgid "No items"
+msgstr ""
+
+#: src/components/DictionaryTable.js:275
+msgid "Sort"
+msgstr ""
+
+#: src/components/DictionaryTable.js:276
+msgid "Search"
+msgstr ""
+
+#: src/components/DictionaryTable.js:276
+msgid "Search…"
+msgstr ""
+
+#: src/components/DictionaryTable.js:283
+msgid "Word List Table"
+msgstr ""
+
+#: src/components/DictionaryTable.js:314
+msgid "Sortable"
+msgstr ""
+
+#: src/components/DictionaryTable.js:350
+msgid "(learned)"
+msgstr ""
+
+#: src/components/DictionaryTable.js:572
+msgid "Included to list"
+msgstr ""
+
+#: src/components/DictionaryTable.js:572
+msgid "Excluded from list"
+msgstr ""
+
+#: src/components/LangPair.js:54
+msgid "Learned Language"
+msgstr ""
+
+#: src/components/LangPair.js:55
+msgid "Mother Language"
+msgstr ""
+
+#: src/components/LocalLinkRequest.js:62
+#: src/components/LocalPasswordReset.js:64
+#: src/components/LocalUserLogin.js:78
+#: src/components/LocalUserRegister.js:79
+msgid "Incorrect email address"
+msgstr ""
+
+#: src/components/LocalLinkRequest.js:63
+#: src/components/LocalPasswordReset.js:65
+#: src/components/LocalPasswordReset.js:80
+#: src/components/LocalUserLogin.js:79
+#: src/components/LocalUserLogin.js:93
+#: src/components/LocalUserRegister.js:67
+#: src/components/LocalUserRegister.js:80
+#: src/components/LocalUserRegister.js:94
+msgid "You can not type in more than {0} characters"
+msgstr ""
+
+#: src/components/LocalLinkRequest.js:67
+#: src/components/LocalPasswordReset.js:69
+#: src/components/LocalUserLogin.js:83
+#: src/components/LocalUserRegister.js:84
+msgid "Email address"
+msgstr ""
+
+#: src/components/LocalLinkRequest.js:76
+msgid "LinkRequest.SubmitButton.SendPasswordResetLink"
+msgstr ""
+
+#: src/components/LocalPasswordReset.js:79
+#: src/components/LocalUserLogin.js:92
+#: src/components/LocalUserRegister.js:93
+msgid "Must have at least {0} characters"
+msgstr ""
+
+#: src/components/LocalPasswordReset.js:84
+#: src/components/LocalUserLogin.js:97
+msgid "Password"
+msgstr ""
+
+#: src/components/LocalPasswordReset.js:93
+#: src/components/LocalUserRegister.js:107
+msgid "Needs to be the same password as above"
+msgstr ""
+
+#: src/components/LocalPasswordReset.js:97
+msgid "Confirm password"
+msgstr ""
+
+#: src/components/LocalPasswordReset.js:105
+msgid "PasswordReset.SubmitButton.ResetPassword"
+msgstr ""
+
+#: src/components/LocalUserLogin.js:116
+msgid "Remember me"
+msgstr ""
+
+#: src/components/LocalUserLogin.js:127
+msgid "LoginForm.SubmitButton.Log_in"
+msgstr ""
+
+#: src/components/LocalUserRegister.js:66
+msgid "Too short"
+msgstr ""
+
+#: src/components/LocalUserRegister.js:71
+msgid "Desired username"
+msgstr ""
+
+#: src/components/LocalUserRegister.js:98
+msgid "Create a password"
+msgstr ""
+
+#: src/components/LocalUserRegister.js:111
+msgid "Enter password again"
+msgstr ""
+
+#: src/components/LocalUserRegister.js:123
+msgid "RegisterForm.SubmitButton.Register"
+msgstr ""
+
+#: src/components/Login.js:66
+#: src/components/Register.js:70
+msgid "or with"
+msgstr ""
+
+#: src/components/LoginRegister.js:187
+msgid "LoginRegister.TabLabel.Register"
+msgstr ""
+
+#: src/components/LoginRegister.js:191
+msgid "LoginRegister.TabLabel.Login"
+msgstr ""
+
+#: src/components/LoginRegisterForm.js:220
+msgid "Demo"
+msgstr ""
+
+#: src/components/PasswordReqest.js:78
+msgid "PasswordRequest.TabLabel.ResetPassword"
+msgstr ""
+
+#: src/components/PasswordRequestForm.js:74
+#~ msgid "The email with the reset link has been sent successfully!"
+#~ msgstr ""
+
+#: src/components/PasswordRequestForm.js:78
+msgid "success.passwordResetLink.sent"
+msgstr ""
+
+#: src/components/PasswordReset.js:78
+msgid "PasswordReset.TabLabel.ResetPassword"
+msgstr ""
+
+#: src/components/PasswordResetForm.js:61
+msgid "success.passwordReset.made"
+msgstr ""
+
+#: src/components/PasswordResetForm.js:73
+#~ msgid "The password reset has been made successfully!"
+#~ msgstr ""
+
+#: src/components/SnackbarMessages.js:31
+#: src/components/Snackbars.js:88
+msgid "success.fileload.successfull"
+msgstr ""
+
+#: src/components/Snackbars.js:61
+msgid "pleaseTryAgainLater"
+msgstr ""
+
+#: src/components/Snackbars.js:62
+msgid "pleaseCheckInternetConnection"
+msgstr ""
+
+#: src/components/Snackbars.js:90
+msgid "success.fileUpload.successfull"
+msgstr ""
+
+#: src/components/Snackbars.js:92
+msgid "error.fileload.browserNotSupportingFileLoad"
+msgstr ""
+
+#: src/components/Snackbars.js:108
+msgid "error.fileload.notFound"
+msgstr ""
+
+#: src/components/Snackbars.js:110
+msgid "error.fileload.failed"
+msgstr ""
+
+#: src/components/Snackbars.js:112
+msgid "error.fileload.whileReading"
+msgstr ""
+
+#: src/components/Snackbars.js:114
+msgid "error.fileload.notReadable"
+msgstr ""
+
+#: src/components/Snackbars.js:133
+msgid "info.fileload.fileReadyForLoading"
+msgstr ""
+
+#: src/components/Snackbars.js:135
+msgid "info.fileload.cancelled"
+msgstr ""
+
+#: src/components/Snackbars.js:138
+msgid "error.fileUpload.detectLanguage"
+msgstr ""
+
+#: src/components/Snackbars.js:142
+msgid "error.fileUpload.motherLanguageNeeded"
+msgstr ""
+
+#: src/components/Snackbars.js:144
+msgid "error.fileUpload.badUrl"
+msgstr ""
+
+#: src/components/Snackbars.js:146
+msgid "error.fileUpload.uploadFailure"
+msgstr ""
+
+#: src/components/Snackbars.js:148
+msgid "error.fileUpload.notUniqueWl"
+msgstr ""
+
+#: src/components/Snackbars.js:151
+msgid "success.register.success"
+msgstr ""
+
+#: src/components/Snackbars.js:153
+msgid "error.register.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:160
+msgid "success.login.success"
+msgstr ""
+
+#: src/components/Snackbars.js:162
+msgid "error.login.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:165
+#~ msgid "error.register.failure"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:165
+msgid "error.auth.failed"
+msgstr ""
+
+#: src/components/Snackbars.js:183
+msgid "info.subspecs.noItemsAvailable"
+msgstr ""
+
+#: src/components/Snackbars.js:187
+msgid "error.tooManyRequests"
+msgstr ""
+
+#: src/components/Snackbars.js:190
+msgid "error.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:192
+msgid "error.request.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:194
+#~ msgid "error.response.status"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:210
+msgid "success.logout.success"
+msgstr ""
+
+#: src/components/Snackbars.js:212
+msgid "error.logout.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:217
+msgid "success.passwordRequest.emailSent"
+msgstr ""
+
+#: src/components/Snackbars.js:219
+msgid "error.passwordRequest.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:221
+msgid "error.passwordRequest.emailNotSent"
+msgstr ""
+
+#: src/components/Snackbars.js:226
+msgid "success.passwordReset.success"
+msgstr ""
+
+#: src/components/Snackbars.js:228
+msgid "error.passwordReset.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:230
+msgid "error.passwordReset.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:235
+msgid "success.verificationEmailResent"
+msgstr ""
+
+#: src/components/Snackbars.js:238
+msgid "success.providerLogin.success"
+msgstr ""
+
+#: src/components/Snackbars.js:240
+msgid "error.providerLogin.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:245
+msgid "success.uploadState.success"
+msgstr ""
+
+#: src/components/Snackbars.js:247
+msgid "error.uploadState.invalid"
+msgstr ""
+
+#: src/components/Stages/Stage1.js:15
+msgid "Stage 1"
+msgstr ""
+
+#: src/components/VerificationNotice.js:95
+msgid "VerificationNotice.TabLabel.VerifyYourEmailAddress"
+msgstr ""
+
+#: src/components/VerificationNotice.js:106
+msgid "A fresh verification link has been sent to your email address."
+msgstr ""
+
+#: src/components/VerificationNotice.js:108
+msgid "Before proceeding, please check your email for a verification link."
+msgstr ""
+
+#: src/components/VerificationNotice.js:110
+msgid "If you did not receive the email,"
+msgstr ""
+
+#: src/components/VerificationNotice.js:119
+msgid "VerificationNotice.SubmitButton.clickHereToRequstAnother"
+msgstr ""
+
+#: src/components/WordlistTab1.js:350
+msgid "Uploading…"
+msgstr ""
+
+#: src/components/WordlistTab1.js:460
+msgid "Not detected"
+msgstr ""
+
+#: src/components/WordlistTab1.js:461
+#: src/components/WordlistTab2.js:332
+msgid "Specialty field"
+msgstr ""
+
+#: src/components/WordlistTab1.js:462
+msgid "Subspecialty field"
+msgstr ""
+
+#: src/components/WordlistTab1.js:490
+msgid "Select file"
+msgstr ""
+
+#: src/components/WordlistTab1.js:511
+msgid "UTF-8 .tsv or .csv text file"
+msgstr ""
+
+#: src/components/WordlistTab1.js:600
+msgid "Saving on server"
+msgstr ""
+
+#: src/components/WordlistTab1.js:621
+msgid "Name"
+msgstr ""
+
+#: src/components/WordlistTab1.js:629
+msgid "wordlist.tab.namePlaceholder"
+msgstr ""
+
+#: src/components/WordlistTab1.js:643
+msgid "Description"
+msgstr ""
+
+#: src/components/WordlistTab1.js:654
+msgid "wordlist.tab.descriptionPlaceholder"
+msgstr ""
+
+#: src/components/WordlistTab1.js:704
+msgid "settingsTab1.subspecialties.addPhraseBegin"
+msgstr ""
+
+#: src/components/WordlistTab1.js:705
+msgid "settingsTab1.subspecialties.changePhraseBegin"
+msgstr ""
+
+#: src/components/WordlistTab1.js:707
+msgid "settingsTab1.subspecialties.addPhraseEnd"
+msgstr ""
+
+#: src/components/WordlistTab1.js:757
+msgid "I agree to the"
+msgstr ""
+
+#: src/components/WordlistTab1.js:763
+msgid "Terms and Conditions"
+msgstr ""
+
+#: src/components/WordlistTab1.js:765
+msgid "and"
+msgstr ""
+
+#: src/components/WordlistTab1.js:770
+msgid "Private Policy"
+msgstr ""
+
+#: src/components/WordlistTab1.js:772
+msgid "of"
+msgstr ""
+
+#: src/components/WordlistTab1.js:802
+msgid "Upload"
+msgstr ""
+
+#: src/components/WordlistTab2.js:331
+msgid "Not defined"
+msgstr ""
+
+#: src/components/WordlistTab2.js:333
+msgid "Subspecialty fields"
+msgstr ""
+
+#: src/components/WordlistTab2.js:334
+msgid "Sort By"
+msgstr ""
+
+#: src/components/WordlistTab2.js:337
+msgid "(applied)"
+msgstr ""
+
+#: src/components/WordlistTab2.js:337
+msgid "(not applied)"
+msgstr ""
+
+#: src/components/WordlistTab2.js:338
+msgid "Filter Limits"
+msgstr ""
+
+#: src/components/WordlistTab2.js:341
+msgid "Min"
+msgstr ""
+
+#: src/components/WordlistTab2.js:341
+msgid "Max"
+msgstr ""
+
+#: src/components/WordlistTab2.js:427
+msgid "Word list"
+msgstr ""
+
+#: src/components/WordlistTab2.js:451
+msgid "Subscriptions"
+msgstr ""
+
+#: src/components/WordlistTab2.js:455
+msgid "Items"
+msgstr ""
+
+#: src/components/WordlistTab2.js:460
+msgid "Size"
+msgstr ""
+
+#: src/components/WordlistTabs.js:137
+msgid "Custom word list"
+msgstr ""
+
+#: src/components/WordlistTabs.js:146
+msgid "Server word list"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:14
+msgid "Accounting"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:15
+msgid "Advertising / Public Relations"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:16
+msgid "Aerospace / Aviation / Space"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:17
+msgid "Agriculture"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:18
+msgid "Animal Husbandry / Livestock / Veterinary"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:19
+msgid "Anthropology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:20
+msgid "Archaeology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:21
+msgid "Architecture"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:22
+msgid "Art, Arts & Crafts, Painting"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:23
+msgid "Astronomy & Space"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:24
+msgid "Automation & Robotics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:25
+msgid "Automotive / Cars & Trucks"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:26
+msgid "Biology: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:27
+msgid "Biology: Bioengineering"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:28
+msgid "Biology: Biochemistry"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:29
+msgid "Biology: Microbiology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:30
+msgid "Botany"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:31
+msgid "Building / Construction"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:32
+msgid "Business / Commerce"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:33
+msgid "Cars / Auto"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:34
+msgid "Certificates, Diplomas, Licenses, CVs"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:35
+msgid "Chemistry: Chemistry Science / Engineering"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:36
+msgid "Cinema / Films / TV / Drama"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:37
+msgid "Computers: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:38
+msgid "Computers: Hardware"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:39
+msgid "Computers: Software"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:40
+msgid "Computers: Systems, Networks"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:41
+msgid "Construction / Civil Engineering / Building"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:42
+msgid "Cooking / Culinary"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:43
+msgid "Cosmetics, Beauty"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:44
+msgid "Economics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:45
+msgid "Education / Pedagogy"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:46
+msgid "Electronics / Electical Engineering"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:47
+msgid "Energy / Power Generation"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:48
+msgid "Engineering: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:49
+msgid "Environment & Ecology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:50
+msgid "Esoteric practices"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:53
+msgid "Finance: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:54
+msgid "Fisheries"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:55
+msgid "Folklore"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:56
+msgid "Food & Drink"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:57
+msgid "Forestry / Wood / Timber"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:58
+msgid "Furniture / Household Appliances"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:59
+msgid "Games / Video Games / Gaming / Casino"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:60
+msgid "Genealogy"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:61
+msgid "General / Conversation / Greetings / Letters"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:62
+msgid "Genetics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:63
+msgid "Geography"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:64
+msgid "Geology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:65
+msgid "Government / Politics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:66
+msgid "History"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:67
+msgid "Human Resources"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:68
+msgid "Idioms / Maxims / Sayings"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:69
+msgid "Insurance"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:70
+msgid "International Organizations / Cooperation"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:71
+msgid "Internet, e-Commerce"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:72
+msgid "Investment / Securities"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:73
+msgid "IT (Information Technology)"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:74
+msgid "Journalism"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:75
+msgid "Law: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:76
+msgid "Law: Contract(s)"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:77
+msgid "Law: Patents, Trademarks, Copyright"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:78
+msgid "Law: Taxation & Customs"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:79
+msgid "Linguistics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:81
+msgid "Management"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:82
+msgid "Manufacturing"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:84
+msgid "Marketing / Market Research"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:85
+msgid "Materials: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:86
+msgid "Materials: Ceramics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:87
+msgid "Materials: Glass"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:88
+msgid "Materials: Plastics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:89
+msgid "Materials: Wood"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:90
+msgid "Mathematics & Statistics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:91
+msgid "Mechanics / Mech Engineering"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:92
+msgid "Media / Multimedia"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:93
+msgid "Medical: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:94
+msgid "Medical: Cardiology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:95
+msgid "Medical: Dentistry"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:96
+msgid "Medical: Health Care"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:97
+msgid "Medical: Instruments"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:98
+msgid "Medical: Pharmaceuticals"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:99
+msgid "Metallurgy / Casting"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:100
+msgid "Meteorology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:101
+msgid "Military / Defense"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:102
+msgid "Mining & Minerals / Gems"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:103
+msgid "Music"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:104
+msgid "Names (personal, company)"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:105
+msgid "Nuclear Engineering / Science"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:106
+msgid "Nutrition"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:107
+msgid "Paper / Paper Manufacturing"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:108
+msgid "Patents"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:109
+msgid "Petroleum Engineering / Science"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:110
+msgid "Philosophy"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:111
+msgid "Photography / Imaging / Graphic Arts"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:112
+msgid "Physics"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:113
+msgid "Poetry & Literature"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:114
+msgid "Printing & Publishing"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:115
+msgid "Psychology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:116
+msgid "Real Estate"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:117
+msgid "Religion"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:118
+msgid "Retail"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:119
+msgid "Safety"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:120
+msgid "Science: General"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:121
+msgid "Ships, Sailing, Maritime"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:122
+msgid "Slang"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:123
+msgid "Social Science, Sociology, Ethics, etc."
+msgstr ""
+
+#: src/data/SpecialtyFields.js:124
+msgid "Sports / Fitness / Recreation"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:125
+msgid "Surveying"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:126
+msgid "Telecom(munications)"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:127
+msgid "Textiles / Clothing / Fashion"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:128
+msgid "Tourism & Travel"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:129
+msgid "Wine / Oenology / Viticulture"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:130
+msgid "Zoology"
+msgstr ""
+
+#: src/data/SpecialtyFields.js:131
+msgid "Miscellaneous / Other"
+msgstr ""

@@ -1,0 +1,42 @@
+{
+  "user" : null,
+  "drawerOpen" : true,
+  "tab": 1,
+  "interfaceLang": "en",
+  "startTime": null,
+  "paidupTo": null,
+  "donatedTo": null,
+  "lastPaidup": null,
+  "lastDonated": null,
+  "subscription": 10,
+  "dictionary": {
+    "items":[
+      {"id": 1, "studied": "hello", "meaning": "привет"},
+      {"id": 2, "studied": "hell", "meaning": "ад"},
+      {"id": 3, "studied": "well", "meaning": "хорошо"},
+      {"id": 4, "studied": "low", "meaning": "низкий"},
+      {"id": 5, "studied": "love", "meaning": "любовь"},
+      {"id": 6, "studied": "cool", "meaning": "круто"},
+      {"id": 7, "studied": "quote", "meaning": "назначать цену, ставку"},
+      {"id": 8, "studied": "rtl", "meaning": "أدخل بعض النص في الإدخال أدناه ثم اضغط على زر العودة أو زر التشغيل لسماعها تغيير الأصوات باستخدام القائمة المنسدلة."}
+    ],
+    "order": "asc",
+    "orderBy": "studied",
+    "page": 0,
+    "rowsPerPage": 5,
+    "learnedLang" : "en",
+    "motherLang"  : "ru",
+    "dicId" : "",
+    "dicTimeStamp": "",
+    "dicMaxSize"  : 2500,
+    "dicSpecialty": 4200,
+    "dicName" : "",
+    "uDicPath": "",
+    "uDicIsSelected": true,
+    "uDicIsLoaded": false,
+    "isFetching"  : false,
+    "isDownladed" : false,
+    "isUploaded"  : false
+  },
+  "altItems":[]
+}

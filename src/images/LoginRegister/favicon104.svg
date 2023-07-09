@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="favicon104.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.30110567"
+     inkscape:cx="-466.6136"
+     inkscape:cy="816.98893"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff3f00;fill-opacity:1;fill-rule:evenodd;stroke:#f03221;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1500"
+       width="111.1563"
+       height="84.355766"
+       x="41.565361"
+       y="128.73634" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f0f8f5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path846"
+       sodipodi:type="arc"
+       sodipodi:cx="71.379539"
+       sodipodi:cy="166.28032"
+       sodipodi:rx="8.3880749"
+       sodipodi:ry="7.4560666"
+       sodipodi:start="4.7071482"
+       sodipodi:end="4.6336607"
+       sodipodi:arc-type="arc"
+       d="m 71.33558,158.82435 a 8.3880749,7.4560666 0 0 1 8.429696,7.27993 8.3880749,7.4560666 0 0 1 -8.033671,7.62554 8.3880749,7.4560666 0 0 1 -8.724867,-6.99975 8.3880749,7.4560666 0 0 1 7.713105,-7.88272"
+       sodipodi:open="true" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path846"
+       id="use994"
+       transform="translate(13.398763,-22.66326)"
+       width="100%"
+       height="100%"
+       style="stroke:#f52d4c;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00cd4c;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1018"
+       sodipodi:type="arc"
+       sodipodi:cx="98.754051"
+       sodipodi:cy="166.72311"
+       sodipodi:rx="30.173767"
+       sodipodi:ry="28.790958"
+       sodipodi:start="4.7622007"
+       sodipodi:end="4.6662774"
+       sodipodi:arc-type="slice"
+       d="m 100.25644,137.96787 a 30.173767,28.790958 0 0 1 28.66131,29.49886 30.173767,28.790958 0 0 1 -30.219522,28.04729 30.173767,28.790958 0 0 1 -30.110555,-28.15379 30.173767,28.790958 0 0 1 28.775511,-29.39747 l 1.390867,28.76035 z" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use994"
+       id="use1100"
+       transform="translate(29.668932,0.71233186)"
+       width="100%"
+       height="100%"
+       style="fill:#ff0000;stroke:#f51d27;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1100"
+       id="use1102"
+       transform="translate(12.715372,22.802981)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use994"
+       id="use1104"
+       transform="translate(0.93200835,45.936817)"
+       width="100%"
+       height="100%"
+       style="fill:#ff3f00;fill-opacity:1;stroke:#f51d4c;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1104"
+       id="use1106"
+       transform="translate(28.907872,-0.09099298)"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#eef3f3;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 71.877505,174.00677 126.50291,159.6994"
+       id="path1651" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1651"
+       id="use1805"
+       transform="matrix(1,0,0,-1,-0.54192537,332.83112)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>

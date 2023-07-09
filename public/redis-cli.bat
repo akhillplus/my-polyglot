@@ -1,0 +1,1 @@
+"D:\Program Files\Redis\redis-cli.exe"

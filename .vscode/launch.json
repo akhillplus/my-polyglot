@@ -1,0 +1,72 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    
+    "configurations": [
+        {
+            "name": "Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "port": 9222,
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceRoot}"
+        },
+        {
+            "name": "Chrome attach",
+            "type": "chrome",
+            "request": "attach",
+            "port": 9222,
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceRoot}"
+        },
+        // {
+        //     "type": "chrome",
+        //     "request": "attach",
+        //     "name": "Attach to Chrome",
+        //     // "port": 9222,
+        //     "port": 9222,
+        //     "url": "http://localhost:3000",
+        //     "webRoot": "${workspaceFolder}/src",
+        // },
+        {
+            "type": "chrome",
+            "request": "attach",
+            "name": "Attach to Chrome /demo",
+            "port": 9222,
+            // "port": 3000,
+            // "sourceMaps": true,
+            "url": "http://localhost:3000/demo",
+            // "webRoot": "c:/USR/www/vh1.localhost/static/js",
+
+            "webRoot": "${workspaceFolder}",
+            // "sourceMapPathOverrides": {
+                // "webpack:///./~/*": "${webRoot}/node_modules/*",       // Example: "webpack:///./~/querystring/index.js" -> "/Users/me/project/node_modules/querystring/index.js"
+                // "webpack:///./*":   "${webRoot}/*",                    // Example: "webpack:///./src/app.js" -> "/Users/me/project/src/app.js",
+                // "webpack:///*":     "*",                               // Example: "webpack:///project/app.ts" -> "/project/app.ts"
+                // "webpack:///src/*": "${webRoot}/*"
+            // }
+        },
+        // {
+        //     "name": "Launch localhost",
+        //     "type": "chrome",
+        //     "request": "launch",
+        //     "url": "http://localhost",
+        //     "webRoot": "c:/USR/www/vh1.localhost",//"${workspaceFolder}/wwwroot""${workspaceFolder}/wwwroot",//
+        //     "runtimeExecutable": "D:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+        //     "runtimeArgs": [
+        //         "--remote-debugging-port=9222"
+        //       ]
+        // },
+        // {
+        //     "name": "Launch index.html",
+        //     "type": "chrome",
+        //     "request": "launch",
+        //     "file": "${workspaceFolder}/public/index.html",
+        //     "runtimeExecutable": "D:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+        //     "runtimeArgs": [
+        //         "--remote-debugging-port=9222"
+        //       ]
+        // },
+    ]}

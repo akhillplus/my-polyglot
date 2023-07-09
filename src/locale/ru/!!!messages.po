@@ -1,0 +1,1178 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-05-31 21:33+0300\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/App.js:134
+#~ msgid "There are unsaved changes. Save changes?"
+#~ msgstr "Остались не сохнаненными изменения. Сохранить изменения?"
+
+#: src/components/ComboBoxes.js:32
+msgid "items by"
+msgstr "позиций, автор"
+
+#: src/components/ComboBoxes.js:148
+msgid "Subscriptions ↓"
+msgstr "Подписки ↓"
+
+#: src/components/ComboBoxes.js:149
+msgid "Subscriptions ↑"
+msgstr "Подписки ↑"
+
+#: src/components/ComboBoxes.js:150
+msgid "Name ↓"
+msgstr "Имя ↓"
+
+#: src/components/ComboBoxes.js:151
+msgid "Name ↑"
+msgstr "Имя ↑"
+
+#: src/components/ComboBoxes.js:152
+msgid "Items ↓"
+msgstr "Число позиций ↓"
+
+#: src/components/ComboBoxes.js:153
+msgid "Items ↑"
+msgstr "Число позиций ↓"
+
+#: src/components/ComboBoxes.js:154
+msgid "Size ↓"
+msgstr "Размер файла ↓"
+
+#: src/components/ComboBoxes.js:155
+msgid "Size ↑"
+msgstr "Размер файла ↑"
+
+#: src/components/ComboBoxes.js:156
+msgid "Created ↓"
+msgstr "Дата создания ↓"
+
+#: src/components/ComboBoxes.js:157
+msgid "Created ↑"
+msgstr "Дата создания ↑"
+
+#: src/components/ComboBoxes.js:158
+msgid "Updated ↓"
+msgstr "Дата обновления ↓"
+
+#: src/components/ComboBoxes.js:159
+msgid "Updated ↑"
+msgstr "Дата обновления ↑"
+
+#: src/components/Dashboard.js:410
+msgid "Register"
+msgstr "Регистрация"
+
+#: src/components/Dashboard.js:417
+msgid "Login"
+msgstr "Вход"
+
+#: src/components/Dashboard.js:431
+msgid "Logout"
+msgstr "Выход"
+
+#: src/components/DictionaryControl.js:731
+msgid "Word list settings"
+msgstr "Насторойки списка слов"
+
+#: src/components/DictionaryControl.js:738
+msgid "Restore"
+msgstr "Восстановить"
+
+#: src/components/DictionaryControl.js:743
+msgid "Save"
+msgstr "Сохранить"
+
+#: src/components/DictionaryControl.js:829
+msgid "No items"
+msgstr "Список отсутствует"
+
+#: src/components/DictionaryTable.js:275
+msgid "Sort"
+msgstr "Сортировка"
+
+#: src/components/DictionaryTable.js:276
+msgid "Search"
+msgstr "Поиск"
+
+#: src/components/DictionaryTable.js:276
+msgid "Search…"
+msgstr "Поиск…"
+
+#: src/components/DictionaryTable.js:283
+msgid "Word List Table"
+msgstr "Список слов"
+
+#: src/components/DictionaryTable.js:314
+msgid "Sortable"
+msgstr "Сорт."
+
+#: src/components/DictionaryTable.js:350
+msgid "(learned)"
+msgstr "(изучается)"
+
+#: src/components/LangPair.js:54
+msgid "Learned Language"
+msgstr "Изучаемый язык"
+
+#: src/components/LangPair.js:55
+msgid "Mother Language"
+msgstr "Родной язык"
+
+#: src/components/LocalLinkRequest.js:62
+#: src/components/LocalPasswordReset.js:64
+#: src/components/LocalUserLogin.js:79
+#: src/components/LocalUserRegister.js:79
+msgid "Incorrect email address"
+msgstr "Неверный почтовый адрес"
+
+#: src/components/LocalLinkRequest.js:63
+#: src/components/LocalPasswordReset.js:65
+#: src/components/LocalPasswordReset.js:80
+#: src/components/LocalUserLogin.js:80
+#: src/components/LocalUserLogin.js:94
+#: src/components/LocalUserRegister.js:67
+#: src/components/LocalUserRegister.js:80
+#: src/components/LocalUserRegister.js:94
+msgid "You can not type in more than {0} characters"
+msgstr "Запрещено вводить более {0} символов"
+
+#: src/components/LocalLinkRequest.js:64
+#~ msgid "LinkRequest.Email.IsEmailValidatorError"
+#~ msgstr "Неверный почтовый адрес"
+
+#: src/components/LocalLinkRequest.js:65
+#~ msgid "LinkRequest.Email.MaxLengthValidatorError"
+#~ msgstr "Запрещено вводить более 100 символов"
+
+#: src/components/LocalLinkRequest.js:67
+#: src/components/LocalPasswordReset.js:69
+#: src/components/LocalUserLogin.js:84
+#: src/components/LocalUserRegister.js:84
+msgid "Email address"
+msgstr "Адрес эл. почты"
+
+#: src/components/LocalLinkRequest.js:69
+#~ msgid "LinkRequest.Email.Label"
+#~ msgstr "Адрес эл. почты"
+
+#: src/components/LocalLinkRequest.js:76
+msgid "LinkRequest.SubmitButton.SendPasswordResetLink"
+msgstr "Получить ссылку для сброса пароля"
+
+#: src/components/LocalPasswordReset.js:101
+#~ msgid "PasswordReset.RepeatedPassword.Label"
+#~ msgstr ""
+
+#: src/components/LocalPasswordReset.js:66
+#~ msgid "PasswordReset.Email.IsEmailValidatorError"
+#~ msgstr "Неверный почтовый адрес"
+
+#: src/components/LocalPasswordReset.js:67
+#~ msgid "PasswordReset.Email.MaxLengthValidatorError"
+#~ msgstr "Запрещено вводить более 100 символов"
+
+#: src/components/LocalPasswordReset.js:68
+#~ msgid "You can not type in more than "
+#~ msgstr ""
+
+#: src/components/LocalPasswordReset.js:72
+#~ msgid "PasswordReset.Email.Label"
+#~ msgstr "Адрес эл. почты"
+
+#: src/components/LocalPasswordReset.js:79
+#: src/components/LocalUserLogin.js:93
+#: src/components/LocalUserRegister.js:93
+msgid "Must have at least {0} characters"
+msgstr "Необходимо ввести минимум {0} символов"
+
+#: src/components/LocalPasswordReset.js:83
+#~ msgid "PasswordReset.Password.MinLengthValidatorError"
+#~ msgstr "Необходимо ввести минимум 8 символов"
+
+#: src/components/LocalPasswordReset.js:84
+#~ msgid "PasswordReset.Password.MaxLengthValidatorError"
+#~ msgstr "Запрещено вводить более 50 символов"
+
+#: src/components/LocalPasswordReset.js:84
+#: src/components/LocalUserLogin.js:98
+msgid "Password"
+msgstr "Пароль"
+
+#: src/components/LocalPasswordReset.js:88
+#~ msgid "PasswordReset.Password.Label"
+#~ msgstr ""
+
+#: src/components/LocalPasswordReset.js:93
+#: src/components/LocalUserRegister.js:107
+msgid "Needs to be the same password as above"
+msgstr "Результат должен совпадать с предыдущим полем"
+
+#: src/components/LocalPasswordReset.js:97
+msgid "Confirm password"
+msgstr "подтверждение пароля"
+
+#: src/components/LocalPasswordReset.js:97
+#~ msgid "PasswordReset.RepeatedPassword.ValidationError.EqualsField"
+#~ msgstr ""
+
+#: src/components/LocalPasswordReset.js:109
+msgid "PasswordReset.SubmitButton.ResetPassword"
+msgstr "Сброс пароля"
+
+#: src/components/LocalUserLogin.js:101
+#~ msgid "LoginForm.Password.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:120
+#~ msgid "LoginForm.RememberMe.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:80
+#~ msgid "LoginForm.Email.IsEmailValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:81
+#~ msgid "LoginForm.Email.MaxLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:85
+#~ msgid "LoginForm.Email.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:96
+#~ msgid "LoginForm.Password.MinLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:97
+#~ msgid "LoginForm.Password.MaxLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserLogin.js:117
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: src/components/LocalUserLogin.js:128
+msgid "LoginForm.SubmitButton.Log_in"
+msgstr "Вход"
+
+#: src/components/LocalUserRegister.js:65
+#~ msgid "RegisterForm.Password.MinLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:66
+#~ msgid "RegisterForm.Password.MaxLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:66
+msgid "Too short"
+msgstr "Недостаточно символов"
+
+#: src/components/LocalUserRegister.js:102
+#~ msgid "RegisterForm.Password.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:70
+#~ msgid "RegisterForm.Username.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:71
+msgid "Desired username"
+msgstr "Предпочитаемое имя"
+
+#: src/components/LocalUserRegister.js:81
+#~ msgid "RegisterForm.Email.IsEmailValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:82
+#~ msgid "RegisterForm.Email.MaxLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:86
+#~ msgid "RegisterForm.Email.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:97
+#~ msgid "RegForm.Password.MinLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:98
+msgid "Create a password"
+msgstr "Создание пароля"
+
+#: src/components/LocalUserRegister.js:98
+#~ msgid "RegForm.Password.MaxLengthValidatorError"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:111
+msgid "Enter password again"
+msgstr "Повторный ввод пароля"
+
+#: src/components/LocalUserRegister.js:111
+#~ msgid "RegisterDialoq.RepeatedPassword.ValidationError.EqualsField"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:115
+#~ msgid "RegisterForm.RepeatedPassword.Label"
+#~ msgstr ""
+
+#: src/components/LocalUserRegister.js:123
+msgid "RegisterForm.SubmitButton.Register"
+msgstr "Регистрация"
+
+#: src/components/Login.js:66
+#: src/components/Register.js:70
+msgid "or with"
+msgstr "или с помощью"
+
+#: src/components/LoginRegister.js:187
+msgid "LoginRegister.TabLabel.Register"
+msgstr "Регистрация"
+
+#: src/components/LoginRegister.js:191
+msgid "LoginRegister.TabLabel.Login"
+msgstr "Вход"
+
+#: src/components/LoginRegisterForm.js:222
+msgid "Demo"
+msgstr "Демо-версия"
+
+#: src/components/PasswordReqest.js:78
+msgid "PasswordRequest.TabLabel.ResetPassword"
+msgstr "Сброс пароля"
+
+#: src/components/PasswordRequestForm.js:74
+msgid "The email with the reset link has been sent successfully!"
+msgstr "Письмо с ссылкой для сброса пароля успешно отправлено!"
+
+#: src/components/PasswordReset.js:78
+msgid "PasswordReset.TabLabel.ResetPassword"
+msgstr "Сброс пароля"
+
+#: src/components/PasswordResetForm.js:73
+msgid "The password reset has been made successfully!"
+msgstr "Сброс пароля успешно совершен!"
+
+#: src/components/SnackbarMessages.js:31
+#: src/components/Snackbars.js:88
+msgid "success.fileload.successfull"
+msgstr "Файл успешно загружен!"
+
+#: src/components/Snackbars.js:61
+msgid "pleaseTryAgainLater"
+msgstr ""
+
+#: src/components/Snackbars.js:62
+msgid "pleaseCheckInternetConnection"
+msgstr ""
+
+#: src/components/Snackbars.js:109
+#~ msgid "error.fileload.fileErrors"
+#~ msgstr "{0, plural, one {<0>Ошибка в строке <1>{1}</1>.<2/>В файле обнаружена <3>#</3> строка с ошибками.</0>} other {<4>Ошибка в строке <5>{2}</5> line.<6/>В файле обнаружено <7>#</7> строк с ошибками.</4>}}"
+
+#: src/components/Snackbars.js:109
+#~ msgid "Error in {0} line."
+#~ msgstr ""
+
+#: src/components/Snackbars.js:111
+#~ msgid "error.fileload.tooBigFileSize"
+#~ msgstr "Слишком большой файл. Максимальный размер файла — 3 MiB."
+
+#: src/components/Snackbars.js:88
+#~ msgid "error.fileload.invalidExtension"
+#~ msgstr "Выбран файл с неверным расширением <0>{0}</0>.<1/>Выберите файл с расширением <2>.csv</2> или <3>.txt</3>."
+
+#: src/components/Snackbars.js:88
+#~ msgid "Invalid file selected <0>{fn}</0>.<1>Valid file extentions are <0>.csv</0>, <0>.tsv</0> and <0>.txt</0>."
+#~ msgstr ""
+
+#: src/components/Snackbars.js:88
+#~ msgid "Invalid file selected <0>{0}</0>.<1/>Valid file extentions are <2>.csv</2>, <3>.tsv</3> and <4>.txt</4>."
+#~ msgstr ""
+
+#: src/components/Snackbars.js:90
+msgid "success.fileUpload.successfull"
+msgstr "Файл успешно выгружен!"
+
+#: src/components/Snackbars.js:92
+msgid "error.fileload.browserNotSupportingFileLoad"
+msgstr "К сожалению, этот браузер не поддерживает загрузку файлов."
+
+#: src/components/Snackbars.js:96
+#~ msgid "error.fileload.invalidExtension2"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:109
+msgid "error.fileload.notFound"
+msgstr "Файл не найден."
+
+#: src/components/Snackbars.js:111
+msgid "error.fileload.failed"
+msgstr "Ошибка загркзки файла."
+
+#: src/components/Snackbars.js:113
+msgid "error.fileload.whileReading"
+msgstr "Ошибка чтения файла."
+
+#: src/components/Snackbars.js:113
+#~ msgid "error.fileload.fileErrors1"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:114
+#~ msgid "error.fileload.fileErrors2"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:115
+msgid "error.fileload.notReadable"
+msgstr "Ошибка чтения файла."
+
+#: src/components/Snackbars.js:117
+#~ msgid "{0, plural, one {There is # erroneous line in the file.} other {There are # erroneous lines in the file.}}"
+#~ msgstr ""
+
+#: src/components/Snackbars.js:141
+#~ msgid "success.register.registeredLoggedin"
+#~ msgstr "Поздравляем! Вы успешно зарегистрировались и вошли в систему."
+
+#: src/components/Snackbars.js:143
+msgid "info.fileload.fileReadyForLoading"
+msgstr "Файл готов к загрузке."
+
+#: src/components/Snackbars.js:145
+msgid "info.fileload.cancelled"
+msgstr "Загрузка файла отменена."
+
+#: src/components/Snackbars.js:148
+msgid "error.fileUpload.detectLanguage"
+msgstr "Ошибка обнаружения языка.<0/>Пожалуйста, проверьте соединение с Интернетом."
+
+#: src/components/Snackbars.js:152
+msgid "error.fileUpload.motherLanguageNeeded"
+msgstr "Просьба для заполнения полей использовать родной язык."
+
+#: src/components/Snackbars.js:154
+msgid "error.fileUpload.badUrl"
+msgstr "Ошибка ссылки на ресурс выгрузки."
+
+#: src/components/Snackbars.js:156
+msgid "error.fileUpload.uploadFailure"
+msgstr "Ошибка выгрузки файла."
+
+#: src/components/Snackbars.js:158
+msgid "error.fileUpload.notUniqueWl"
+msgstr "В хранилище уже есть словарь с таким названием."
+
+#: src/components/Snackbars.js:161
+msgid "success.register.success"
+msgstr ""
+
+#: src/components/Snackbars.js:163
+msgid "error.register.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:165
+msgid "error.register.failure"
+msgstr "Ошибка регистрации."
+
+#: src/components/Snackbars.js:169
+msgid "success.login.success"
+msgstr "Вы успешно вошли в систему."
+
+#: src/components/Snackbars.js:172
+msgid "error.login.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:175
+msgid "error.auth.failed"
+msgstr ""
+
+#: src/components/Snackbars.js:180
+msgid "info.subspecs.noItemsAvailable"
+msgstr ""
+
+#: src/components/Snackbars.js:185
+msgid "error.tooManyRequests"
+msgstr "Слишком частые запросы."
+
+#: src/components/Snackbars.js:188
+msgid "error.validationError"
+msgstr "Ошибка проверки значения.<0/>Повторите попытку позже."
+
+#: src/components/Snackbars.js:191
+msgid "error.request.failure"
+msgstr "Непредвиденная ошибка сервера.<0/>Повторите попытку позже."
+
+#: src/components/Snackbars.js:194
+msgid "error.response.status"
+msgstr "Ошибочный статус ответа: <0>{0}</0>.<1/>Повторите попытку позже."
+
+#: src/components/Snackbars.js:205
+msgid "success.logout.success"
+msgstr "Выход был успешно выполнен."
+
+#: src/components/Snackbars.js:208
+msgid "error.logout.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:213
+msgid "success.passwordRequest.emailSent"
+msgstr "Письмо для сброса пароля успешно выслано."
+
+#: src/components/Snackbars.js:216
+msgid "error.passwordRequest.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:219
+msgid "error.passwordRequest.emailNotSent"
+msgstr "Письмо для сброса пароля не выслано.<0/>Повторите попытку позже."
+
+#: src/components/Snackbars.js:224
+msgid "success.passwordReset.success"
+msgstr ""
+
+#: src/components/Snackbars.js:227
+msgid "error.passwordReset.validationError"
+msgstr ""
+
+#: src/components/Snackbars.js:230
+msgid "error.passwordReset.failure"
+msgstr ""
+
+#: src/components/Snackbars.js:235
+msgid "success.verificationEmailResent"
+msgstr "Письмо для подтверждения адреса электронной почты успешно выслано."
+
+#: src/components/Snackbars.js:239
+msgid "success.providerLogin.success"
+msgstr ""
+
+#: src/components/Snackbars.js:242
+msgid "error.providerLogin.failure"
+msgstr ""
+
+#: src/components/Stages/Stage1.js:10
+#~ msgid "..."
+#~ msgstr "..."
+
+#: src/components/Stages/Stage1.js:15
+msgid "Stage 1"
+msgstr "Этап 1"
+
+#: src/components/VerificationNotice.js:95
+msgid "VerificationNotice.TabLabel.VerifyYourEmailAddress"
+msgstr "Подтверждение адреса эл. почты"
+
+#: src/components/VerificationNotice.js:106
+msgid "A fresh verification link has been sent to your email address."
+msgstr "Новое письмо для подтверждения адреса элетронной почты выслано на ваш адрес."
+
+#: src/components/VerificationNotice.js:108
+msgid "Before proceeding, please check your email for a verification link."
+msgstr "Перед тем как продолжить, проверьте свою электронную почту на наличие проверочной ссылки."
+
+#: src/components/VerificationNotice.js:110
+msgid "If you did not receive the email,"
+msgstr "Если вы не получали письма,"
+
+#: src/components/VerificationNotice.js:119
+msgid "VerificationNotice.SubmitButton.clickHereToRequstAnother"
+msgstr "нажмите здесь для его получения."
+
+#: src/components/WordlistTab1.js:348
+msgid "Uploading…"
+msgstr ""
+
+#: src/components/WordlistTab1.js:458
+msgid "Not detected"
+msgstr "Не распознано"
+
+#: src/components/WordlistTab1.js:459
+#: src/components/WordlistTab2.js:332
+msgid "Specialty field"
+msgstr "Категория"
+
+#: src/components/WordlistTab1.js:460
+msgid "Subspecialty field"
+msgstr "Подкатегория"
+
+#: src/components/WordlistTab1.js:486
+msgid "Select file"
+msgstr "Выбор файла"
+
+#: src/components/WordlistTab1.js:497
+msgid "UTF-8 .tsv or .csv text file"
+msgstr "UTF-8 .tsv или .csv текстовый файл"
+
+#: src/components/WordlistTab1.js:596
+msgid "Saving on server"
+msgstr "Сохранение на сервере"
+
+#: src/components/WordlistTab1.js:617
+msgid "Name"
+msgstr "Наименование"
+
+#: src/components/WordlistTab1.js:625
+msgid "wordlist.tab.namePlaceholder"
+msgstr "Введите имя используя родной язык."
+
+#: src/components/WordlistTab1.js:639
+msgid "Description"
+msgstr "Описание"
+
+#: src/components/WordlistTab1.js:650
+msgid "wordlist.tab.descriptionPlaceholder"
+msgstr "Введите описание используя родной язык."
+
+#: src/components/WordlistTab1.js:700
+msgid "settingsTab1.subspecialties.addPhraseBegin"
+msgstr "Добавить «"
+
+#: src/components/WordlistTab1.js:701
+msgid "settingsTab1.subspecialties.changePhraseBegin"
+msgstr ""
+
+#: src/components/WordlistTab1.js:703
+msgid "settingsTab1.subspecialties.addPhraseEnd"
+msgstr "»"
+
+#: src/components/WordlistTab1.js:753
+msgid "I agree to the"
+msgstr "Я согласен с"
+
+#: src/components/WordlistTab1.js:759
+msgid "Terms and Conditions"
+msgstr "Условиями пользования"
+
+#: src/components/WordlistTab1.js:761
+msgid "and"
+msgstr "и"
+
+#: src/components/WordlistTab1.js:766
+msgid "Private Policy"
+msgstr "Политикой конфиденциальности"
+
+#: src/components/WordlistTab1.js:797
+msgid "Upload"
+msgstr "Выгрузить"
+
+#: src/components/WordlistTab2.js:331
+msgid "Not defined"
+msgstr "Не определено"
+
+#: src/components/WordlistTab2.js:333
+msgid "Subspecialty fields"
+msgstr "Подкатегории"
+
+#: src/components/WordlistTab2.js:334
+msgid "Sort By"
+msgstr "Сортировка по"
+
+#: src/components/WordlistTab2.js:337
+msgid "(not applied)"
+msgstr "(не применяется)"
+
+#: src/components/WordlistTab2.js:337
+msgid "(applied)"
+msgstr "(применяется)"
+
+#: src/components/WordlistTab2.js:338
+msgid "Filter Limits"
+msgstr "Пределы фильтра"
+
+#: src/components/WordlistTab2.js:341
+msgid "Min"
+msgstr "Мин"
+
+#: src/components/WordlistTab2.js:341
+msgid "Max"
+msgstr "Макс"
+
+#: src/components/WordlistTab2.js:427
+msgid "Word list"
+msgstr "Список слов"
+
+#: src/components/WordlistTab2.js:451
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: src/components/WordlistTab2.js:455
+msgid "Items"
+msgstr "Число позиций"
+
+#: src/components/WordlistTab2.js:460
+msgid "Size"
+msgstr "Размер"
+
+#: src/components/WordlistTabs.js:137
+msgid "Custom word list"
+msgstr "Личный список слов"
+
+#: src/components/WordlistTabs.js:146
+msgid "Server word list"
+msgstr "Список слов с сервера"
+
+#: src/data/SpecialtyFields.js:14
+msgid "Accounting"
+msgstr "Бухгалтерский учет"
+
+#: src/data/SpecialtyFields.js:15
+msgid "Advertising / Public Relations"
+msgstr "Реклама / Связи с общественностью"
+
+#: src/data/SpecialtyFields.js:16
+msgid "Aerospace / Aviation / Space"
+msgstr "Авиация и космонавтика, летательные аппараты"
+
+#: src/data/SpecialtyFields.js:17
+msgid "Agriculture"
+msgstr "Сельское хозяйство"
+
+#: src/data/SpecialtyFields.js:18
+msgid "Animal Husbandry / Livestock / Veterinary"
+msgstr "Животноводство / Зоотехника"
+
+#: src/data/SpecialtyFields.js:19
+msgid "Anthropology"
+msgstr "Антропология"
+
+#: src/data/SpecialtyFields.js:20
+msgid "Archaeology"
+msgstr "Архиология"
+
+#: src/data/SpecialtyFields.js:21
+msgid "Architecture"
+msgstr "Архтектура"
+
+#: src/data/SpecialtyFields.js:22
+msgid "Art, Arts & Crafts, Painting"
+msgstr "Искусства, ремесла, живопись"
+
+#: src/data/SpecialtyFields.js:23
+msgid "Astronomy & Space"
+msgstr "Астрономия и космос"
+
+#: src/data/SpecialtyFields.js:24
+msgid "Automation & Robotics"
+msgstr "Автоматизация и робототехника"
+
+#: src/data/SpecialtyFields.js:25
+msgid "Automotive / Cars & Trucks"
+msgstr "Транспорт / Транспортные средства / Грузоперевозки"
+
+#: src/data/SpecialtyFields.js:26
+msgid "Biology: General"
+msgstr "Биология: в целом"
+
+#: src/data/SpecialtyFields.js:27
+msgid "Biology: Bioengineering"
+msgstr "Биология: Биотехника"
+
+#: src/data/SpecialtyFields.js:28
+msgid "Biology: Biochemistry"
+msgstr "Биология: Биохимия"
+
+#: src/data/SpecialtyFields.js:29
+msgid "Biology: Microbiology"
+msgstr "Биология: Микробиология"
+
+#: src/data/SpecialtyFields.js:30
+msgid "Botany"
+msgstr "Ботаника"
+
+#: src/data/SpecialtyFields.js:31
+msgid "Building / Construction"
+msgstr "Строительство / Строительная техника"
+
+#: src/data/SpecialtyFields.js:32
+msgid "Business / Commerce"
+msgstr "Бизнес / Коммерция"
+
+#: src/data/SpecialtyFields.js:33
+msgid "Cars / Auto"
+msgstr "Автомобили / Автомеханика"
+
+#: src/data/SpecialtyFields.js:34
+msgid "Certificates, Diplomas, Licenses, CVs"
+msgstr "Дипломы, лицензии, сертификаты, резюме"
+
+#: src/data/SpecialtyFields.js:35
+msgid "Chemistry: Chemistry Science / Engineering"
+msgstr "Химия, химические науки и технологии"
+
+#: src/data/SpecialtyFields.js:36
+msgid "Cinema / Films / TV / Drama"
+msgstr "Кино, кинематография, телевидение, театр"
+
+#: src/data/SpecialtyFields.js:37
+msgid "Computers: General"
+msgstr "Компьютеры: в целом"
+
+#: src/data/SpecialtyFields.js:38
+msgid "Computers: Hardware"
+msgstr "Компьютеры: Железо"
+
+#: src/data/SpecialtyFields.js:39
+msgid "Computers: Software"
+msgstr "Компьютеры: Программное обеспечение"
+
+#: src/data/SpecialtyFields.js:40
+msgid "Computers: Systems, Networks"
+msgstr "Компьютеры: Системы и сети"
+
+#: src/data/SpecialtyFields.js:41
+msgid "Construction / Civil Engineering / Building"
+msgstr "Строительство / Промышленное и гражданское строительство"
+
+#: src/data/SpecialtyFields.js:42
+msgid "Cooking / Culinary"
+msgstr "Кухня / Кулинария"
+
+#: src/data/SpecialtyFields.js:43
+msgid "Cosmetics, Beauty"
+msgstr "Косметика, парфюмерия"
+
+#: src/data/SpecialtyFields.js:44
+msgid "Economics"
+msgstr "Экономика"
+
+#: src/data/SpecialtyFields.js:45
+msgid "Education / Pedagogy"
+msgstr "Образование / Педагогика"
+
+#: src/data/SpecialtyFields.js:46
+msgid "Electronics / Electical Engineering"
+msgstr "Электроника / Электротехника"
+
+#: src/data/SpecialtyFields.js:47
+msgid "Energy / Power Generation"
+msgstr "Энергетика / Энергопроизводство"
+
+#: src/data/SpecialtyFields.js:48
+msgid "Engineering: General"
+msgstr "Техника: в целом"
+
+#: src/data/SpecialtyFields.js:49
+msgid "Environment & Ecology"
+msgstr "Экология и окружающая среда"
+
+#: src/data/SpecialtyFields.js:50
+msgid "Esoteric practices"
+msgstr "Эзотерические практики"
+
+#: src/data/SpecialtyFields.js:53
+msgid "Finance: General"
+msgstr "Финансы: в целом"
+
+#: src/data/SpecialtyFields.js:54
+msgid "Fisheries"
+msgstr "Рыболовство и рыбоводство"
+
+#: src/data/SpecialtyFields.js:55
+msgid "Folklore"
+msgstr "Фольклор"
+
+#: src/data/SpecialtyFields.js:56
+msgid "Food & Drink"
+msgstr "Пищевая и молочная промышленность"
+
+#: src/data/SpecialtyFields.js:57
+msgid "Forestry / Wood / Timber"
+msgstr "Лесная и деревообрабатывающая промышленность"
+
+#: src/data/SpecialtyFields.js:58
+msgid "Furniture / Household Appliances"
+msgstr "Бытовая техника / Мебель"
+
+#: src/data/SpecialtyFields.js:59
+msgid "Games / Video Games / Gaming / Casino"
+msgstr "Игры / Видеоигры / Азартные игры / Казино"
+
+#: src/data/SpecialtyFields.js:60
+msgid "Genealogy"
+msgstr "Генеалогия"
+
+#: src/data/SpecialtyFields.js:61
+msgid "General / Conversation / Greetings / Letters"
+msgstr "Общеразговорные темы / Переписка / Поздравления"
+
+#: src/data/SpecialtyFields.js:62
+msgid "Genetics"
+msgstr "Генетика"
+
+#: src/data/SpecialtyFields.js:63
+msgid "Geography"
+msgstr "География"
+
+#: src/data/SpecialtyFields.js:64
+msgid "Geology"
+msgstr "Геология"
+
+#: src/data/SpecialtyFields.js:65
+msgid "Government / Politics"
+msgstr "Государство / Политика"
+
+#: src/data/SpecialtyFields.js:66
+msgid "History"
+msgstr "История"
+
+#: src/data/SpecialtyFields.js:67
+msgid "Human Resources"
+msgstr "Кадровые ресурсы"
+
+#: src/data/SpecialtyFields.js:68
+msgid "Idioms / Maxims / Sayings"
+msgstr "Идиомы / Изречения / Поговорки"
+
+#: src/data/SpecialtyFields.js:69
+msgid "Insurance"
+msgstr "Страхование"
+
+#: src/data/SpecialtyFields.js:70
+msgid "International Organizations / Cooperation"
+msgstr "Международные организации и сотрудничество"
+
+#: src/data/SpecialtyFields.js:71
+msgid "Internet, e-Commerce"
+msgstr "Интернет, электронная коммерция"
+
+#: src/data/SpecialtyFields.js:72
+msgid "Investment / Securities"
+msgstr "Инвестиции / Ценные бумаги"
+
+#: src/data/SpecialtyFields.js:73
+msgid "IT (Information Technology)"
+msgstr "ИТ (Информационные технологии)"
+
+#: src/data/SpecialtyFields.js:74
+msgid "Journalism"
+msgstr "Журналистика"
+
+#: src/data/SpecialtyFields.js:75
+msgid "Law: General"
+msgstr "Юриспруденция: в целом"
+
+#: src/data/SpecialtyFields.js:76
+msgid "Law: Contract(s)"
+msgstr "Юриспруденция: Контракты"
+
+#: src/data/SpecialtyFields.js:77
+msgid "Law: Patents, Trademarks, Copyright"
+msgstr "Юриспруденция: Патенты, товарные знаки, авторские права"
+
+#: src/data/SpecialtyFields.js:78
+msgid "Law: Taxation & Customs"
+msgstr "Юриспруденция: Налоги и таможня"
+
+#: src/data/SpecialtyFields.js:79
+msgid "Linguistics"
+msgstr "Лингвистика"
+
+#: src/data/SpecialtyFields.js:81
+msgid "Management"
+msgstr "Административное управление, менеджмент"
+
+#: src/data/SpecialtyFields.js:82
+msgid "Manufacturing"
+msgstr "Производство"
+
+#: src/data/SpecialtyFields.js:84
+msgid "Marketing / Market Research"
+msgstr "Маркетинг / Изучение рынков"
+
+#: src/data/SpecialtyFields.js:85
+msgid "Materials: General"
+msgstr "Материаловедение: в целом"
+
+#: src/data/SpecialtyFields.js:86
+msgid "Materials: Ceramics"
+msgstr "Материаловедение: Керамика"
+
+#: src/data/SpecialtyFields.js:87
+msgid "Materials: Glass"
+msgstr "Материаловедение: Стекло"
+
+#: src/data/SpecialtyFields.js:88
+msgid "Materials: Plastics"
+msgstr "Материаловедение: Пластмассы"
+
+#: src/data/SpecialtyFields.js:89
+msgid "Materials: Wood"
+msgstr "Материаловедение: Древесина"
+
+#: src/data/SpecialtyFields.js:90
+msgid "Mathematics & Statistics"
+msgstr "Математика и статистика"
+
+#: src/data/SpecialtyFields.js:91
+msgid "Mechanics / Mech Engineering"
+msgstr "Механика / Инженерная механика"
+
+#: src/data/SpecialtyFields.js:92
+msgid "Media / Multimedia"
+msgstr "Носители информации / Мультимедиа"
+
+#: src/data/SpecialtyFields.js:93
+msgid "Medical: General"
+msgstr "Медицина: в целом"
+
+#: src/data/SpecialtyFields.js:94
+msgid "Medical: Cardiology"
+msgstr "Медицина: Кардиология"
+
+#: src/data/SpecialtyFields.js:95
+msgid "Medical: Dentistry"
+msgstr "Медицина: Стоматология"
+
+#: src/data/SpecialtyFields.js:96
+msgid "Medical: Health Care"
+msgstr "Медицина: Здравохранение"
+
+#: src/data/SpecialtyFields.js:97
+msgid "Medical: Instruments"
+msgstr "Медицина: Приборы и инструменты"
+
+#: src/data/SpecialtyFields.js:98
+msgid "Medical: Pharmaceuticals"
+msgstr "Медицина: Фармоцевтика"
+
+#: src/data/SpecialtyFields.js:99
+msgid "Metallurgy / Casting"
+msgstr "Металлургия / Литье"
+
+#: src/data/SpecialtyFields.js:100
+msgid "Meteorology"
+msgstr "Метеорология"
+
+#: src/data/SpecialtyFields.js:101
+msgid "Military / Defense"
+msgstr "Военное дело / Оборона"
+
+#: src/data/SpecialtyFields.js:102
+msgid "Mining & Minerals / Gems"
+msgstr "Горное дело и полезные ископаемые / Драгоценные камни"
+
+#: src/data/SpecialtyFields.js:103
+msgid "Music"
+msgstr "Музыка"
+
+#: src/data/SpecialtyFields.js:104
+msgid "Names (personal, company)"
+msgstr "Собственные имена и названия"
+
+#: src/data/SpecialtyFields.js:105
+msgid "Nuclear Engineering / Science"
+msgstr "Ядерные технологии / Ядерная физика"
+
+#: src/data/SpecialtyFields.js:106
+msgid "Nutrition"
+msgstr "Питание"
+
+#: src/data/SpecialtyFields.js:107
+msgid "Paper / Paper Manufacturing"
+msgstr "Бумага / Бумажная промышленность"
+
+#: src/data/SpecialtyFields.js:108
+msgid "Patents"
+msgstr "Патенты"
+
+#: src/data/SpecialtyFields.js:109
+msgid "Petroleum Engineering / Science"
+msgstr "Нефтепромысловые науки и технологии"
+
+#: src/data/SpecialtyFields.js:110
+msgid "Philosophy"
+msgstr "Философия"
+
+#: src/data/SpecialtyFields.js:111
+msgid "Photography / Imaging / Graphic Arts"
+msgstr "Фотография / Обработка изображений / Изобразительные средства"
+
+#: src/data/SpecialtyFields.js:112
+msgid "Physics"
+msgstr "Физика"
+
+#: src/data/SpecialtyFields.js:113
+msgid "Poetry & Literature"
+msgstr "Литература и поэзия"
+
+#: src/data/SpecialtyFields.js:114
+msgid "Printing & Publishing"
+msgstr "Полиграфия и издательское дело"
+
+#: src/data/SpecialtyFields.js:115
+msgid "Psychology"
+msgstr "Психология"
+
+#: src/data/SpecialtyFields.js:116
+msgid "Real Estate"
+msgstr "Недвижимость"
+
+#: src/data/SpecialtyFields.js:117
+msgid "Religion"
+msgstr "Религия"
+
+#: src/data/SpecialtyFields.js:118
+msgid "Retail"
+msgstr "Розничная торговля"
+
+#: src/data/SpecialtyFields.js:119
+msgid "Safety"
+msgstr "Безопасность"
+
+#: src/data/SpecialtyFields.js:120
+msgid "Science: General"
+msgstr "Наука: в целом"
+
+#: src/data/SpecialtyFields.js:121
+msgid "Ships, Sailing, Maritime"
+msgstr "Морское дело, мореплавание, морские судна"
+
+#: src/data/SpecialtyFields.js:122
+msgid "Slang"
+msgstr "Жаргон"
+
+#: src/data/SpecialtyFields.js:123
+msgid "Social Science, Sociology, Ethics, etc."
+msgstr "Общественные науки, социология, этика и т. д."
+
+#: src/data/SpecialtyFields.js:124
+msgid "Sports / Fitness / Recreation"
+msgstr "Спорт / Физкультура / Отдых"
+
+#: src/data/SpecialtyFields.js:125
+msgid "Surveying"
+msgstr "Топогеодезические работы"
+
+#: src/data/SpecialtyFields.js:126
+msgid "Telecom(munications)"
+msgstr "Телекоммуникации"
+
+#: src/data/SpecialtyFields.js:127
+msgid "Textiles / Clothing / Fashion"
+msgstr "Текстильная промышленность / Одежда / Мода"
+
+#: src/data/SpecialtyFields.js:128
+msgid "Tourism & Travel"
+msgstr "Туризм и поездки"
+
+#: src/data/SpecialtyFields.js:129
+msgid "Wine / Oenology / Viticulture"
+msgstr "Вино / Виноделие / Виноградарство"
+
+#: src/data/SpecialtyFields.js:130
+msgid "Zoology"
+msgstr "Зоология"
+
+#: src/data/SpecialtyFields.js:131
+msgid "Miscellaneous / Other"
+msgstr "Прочее / Иное"

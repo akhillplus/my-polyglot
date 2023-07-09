@@ -1,0 +1,180 @@
+const customStyles = {
+  control: (provided, state) => ({
+    ...provided,
+    color: 'black',
+    minHeight: 34, 
+    borderRadius: state.isFocused ? 0 : 0,
+    border: state.isFocused ? 0 : 0,
+    borderBottom: state.isFocused ? '2px solid #4caf50' : '1px solid grey',
+    
+    // This line disable the blue border
+    boxShadow: state.isFocused ? 0 : 0,
+    '&:hover': {
+      border: 'none',
+      borderBottom: state.isFocused ? '2px solid #4caf50' : '2px solid black'
+    }
+  }),
+  // input:(provided, state) => ({
+  //   ...provided,
+  //   color: 'black',
+  //   minHeight: 34, 
+  // }),
+  singleValue: (base, state) => ({
+      ...base,
+      // minHeight: 34, 
+      color: state.selectProps.menuIsOpen ? 'gray' : base.color,
+    }),
+  dropdownIndicator: () => ({
+    // color: 'rgba(0, 0, 0, 0.54)'
+  }),
+  indicatorSeparator: (provided, state) => ({
+    ...provided,
+    display: 'none'
+  }),
+  option: (provided, state) => ({
+    ...provided,
+    color: state.isSelected ? 'black' : state.isFocused ? 'black': 'black',
+    backgroundColor: state.isSelected ? 'rgba(0, 0, 0, 0.14)' : 
+        state.isFocused ? 'rgba(0, 0, 0, 0.14)': provided.backgroundColor,
+    '&:hover': {
+      backgroundColor: 'rgba(0, 0, 0, 0.08)'
+    }
+  }),
+  menuList: (provided) => ({
+    ...provided,
+    maxHeight: 200,    // left: 100,
+    boxShadow: '0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12)'
+  }),
+  menu: (provided) => ({
+    ...provided,
+    // maxHeight: 100,
+    marginTop: 1
+  })
+}
+
+
+        {/* <ExpansionPanel className={classes.expansionPanel} expanded={uDicIsSelected === "true"} 
+           onChange={this.panel1HandleChange.bind(this)}>
+          <ExpansionPanelSummary className={classes.expansionPanelSummary.content} 
+          >
+            
+            <Radio
+            checked={uDicIsSelected === "true"}
+            onChange={this.panel1HandleChange.bind(this)}
+            value="true"
+            name="uDicIsSelected"
+            color="primary"
+            style={{padding:0}}
+            />
+            <Typography className={classes.heading}>
+            <Trans>Custom word list</Trans>
+            </Typography>
+          </ExpansionPanelSummary>
+          <ExpansionPanelDetails
+            classes={{
+            root: classes.expansionPanelDetails,
+          }}
+          >
+          </ExpansionPanelDetails>
+        </ExpansionPanel> */}
+        {/* <ExpansionPanel className={classes.expansionPanel} expanded={user !== null && uDicIsSelected === "false"} 
+          onChange={this.panel2HandleChange.bind(this)}>
+          <ExpansionPanelSummary className={classes.expansionPanelSummary.content} >
+          
+          <Radio
+          checked={user !== null && uDicIsSelected === "false"}
+          onChange={this.panel2HandleChange.bind(this)}
+          value="false"
+          name="uDicIsSelected"
+          color="primary"
+          style={{padding:0}}
+          />
+          <Typography className={classes.heading}>
+          <Trans>Server word list</Trans>
+          </Typography>
+          </ExpansionPanelSummary>
+          <ExpansionPanelDetails
+          classes={{
+            root: classes.expansionPanelDetails,
+          }}
+          >
+          </ExpansionPanelDetails>
+          <Divider />
+          <ExpansionPanelActions>
+          <Button size="small" className={classes.button}
+          ><Trans>Retrieve</Trans>
+          </Button>
+        </ExpansionPanelActions>
+
+        </ExpansionPanel> */}
+
+                <Grid item xs={12} sm={4}>
+                <FormControl className={classes.formControlExpansionPanelDetails}>
+                <InputLabel
+                htmlFor="dicMinSize"
+                // classes={{root: classes.label}}
+                >
+                <Trans>Min items in word list</Trans>
+                </InputLabel>
+                <Input
+                // id="dicMaxSize"
+                name="dicMinSize"
+                value={dicMinSize}
+                readOnly={false}
+                type="number"
+                inputProps={{ min: "0", /*max: "1000000", */step: "50" }}
+                onChange={onMinChange}
+                classes={{
+                // underline: classes.cssUnderline,
+                }}
+                />
+                </FormControl>
+                </Grid>
+                <Grid item xs={12} sm={4}>
+                <FormControl className={classes.formControlExpansionPanelDetails}>
+                <InputLabel
+                htmlFor="dicMaxSize"
+                // classes={{root: classes.label}}
+                >
+                <Trans>Max items in word list</Trans>
+                </InputLabel>
+                <Input
+                // id="dicMaxSize"
+                name="dicMaxSize"
+                value={dicMaxSize}
+                readOnly={false}
+                type="number"
+                inputProps={{ min: "0", /*max: "1000000", */step: "50" }}
+                onChange={onMaxChange}
+                classes={{
+                // underline: classes.cssUnderline,
+                }}
+                />
+                </FormControl>
+                </Grid>
+        <StyledTreeItem
+          nodeId="1"
+          labelText="Subscriptions"
+        //   labelIcon={SupervisorAccountIcon}
+          labelInfo={labelInfo}
+        //   color="#1a73e8"
+        //   bgColor="#e8f0fe"
+        />
+        <StyledTreeItem
+          nodeId="2"
+          labelText="Items"
+        //   labelIcon={InfoIcon}
+          labelInfo={labelInfo}
+        //   color="#e3742f"
+        //   bgColor="#fcefe3"
+        />
+        <StyledTreeItem
+          nodeId="3"
+          labelText="Sizes"
+        //   labelIcon={ForumIcon}
+          labelInfo={labelInfo}
+        //   color="#a250f5"
+        //   bgColor="#f3e8fd"
+        />
+        </StyledTreeItem>
+      {/* <StyledTreeItem nodeId="4" labelText="History" labelIcon={Label} /> */}

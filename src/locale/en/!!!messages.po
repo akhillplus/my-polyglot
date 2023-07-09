@@ -1,0 +1,1177 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-05-31 21:33+0300\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/App.js:134
+#~ msgid "There are unsaved changes. Save changes?"
+#~ msgstr "There are unsaved changes. Save changes?"
+
+#: src/components/ComboBoxes.js:32
+msgid "items by"
+msgstr "items by"
+
+#: src/components/ComboBoxes.js:148
+msgid "Subscriptions ↓"
+msgstr "Subscriptions ↓"
+
+#: src/components/ComboBoxes.js:149
+msgid "Subscriptions ↑"
+msgstr "Subscriptions ↑"
+
+#: src/components/ComboBoxes.js:150
+msgid "Name ↓"
+msgstr "Name ↓"
+
+#: src/components/ComboBoxes.js:151
+msgid "Name ↑"
+msgstr "Name ↑"
+
+#: src/components/ComboBoxes.js:152
+msgid "Items ↓"
+msgstr "Items ↓"
+
+#: src/components/ComboBoxes.js:153
+msgid "Items ↑"
+msgstr "Items ↑"
+
+#: src/components/ComboBoxes.js:154
+msgid "Size ↓"
+msgstr "Size ↓"
+
+#: src/components/ComboBoxes.js:155
+msgid "Size ↑"
+msgstr "Size ↑"
+
+#: src/components/ComboBoxes.js:156
+msgid "Created ↓"
+msgstr "Created ↓"
+
+#: src/components/ComboBoxes.js:157
+msgid "Created ↑"
+msgstr "Created ↑"
+
+#: src/components/ComboBoxes.js:158
+msgid "Updated ↓"
+msgstr "Updated ↓"
+
+#: src/components/ComboBoxes.js:159
+msgid "Updated ↑"
+msgstr "Updated ↑"
+
+#: src/components/Dashboard.js:410
+msgid "Register"
+msgstr "Register"
+
+#: src/components/Dashboard.js:417
+msgid "Login"
+msgstr "Login"
+
+#: src/components/Dashboard.js:431
+msgid "Logout"
+msgstr "Logout"
+
+#: src/components/DictionaryControl.js:731
+msgid "Word list settings"
+msgstr "Word list settings"
+
+#: src/components/DictionaryControl.js:738
+msgid "Restore"
+msgstr "Restore"
+
+#: src/components/DictionaryControl.js:743
+msgid "Save"
+msgstr "Save"
+
+#: src/components/DictionaryControl.js:829
+msgid "No items"
+msgstr "No items"
+
+#: src/components/DictionaryTable.js:275
+msgid "Sort"
+msgstr "Sort"
+
+#: src/components/DictionaryTable.js:276
+msgid "Search…"
+msgstr "Search…"
+
+#: src/components/DictionaryTable.js:276
+msgid "Search"
+msgstr "Search"
+
+#: src/components/DictionaryTable.js:283
+msgid "Word List Table"
+msgstr "Word List Table"
+
+#: src/components/DictionaryTable.js:314
+msgid "Sortable"
+msgstr "Sortable"
+
+#: src/components/DictionaryTable.js:350
+msgid "(learned)"
+msgstr "(learned)"
+
+#: src/components/LangPair.js:54
+msgid "Learned Language"
+msgstr "Learned Language"
+
+#: src/components/LangPair.js:55
+msgid "Mother Language"
+msgstr "Mother Language"
+
+#: src/components/LocalLinkRequest.js:62
+#: src/components/LocalPasswordReset.js:64
+#: src/components/LocalUserLogin.js:79
+#: src/components/LocalUserRegister.js:79
+msgid "Incorrect email address"
+msgstr "Incorrect email address"
+
+#: src/components/LocalLinkRequest.js:63
+#: src/components/LocalPasswordReset.js:65
+#: src/components/LocalPasswordReset.js:80
+#: src/components/LocalUserLogin.js:80
+#: src/components/LocalUserLogin.js:94
+#: src/components/LocalUserRegister.js:67
+#: src/components/LocalUserRegister.js:80
+#: src/components/LocalUserRegister.js:94
+msgid "You can not type in more than {0} characters"
+msgstr "You can not type in more than {0} characters"
+
+#: src/components/LocalLinkRequest.js:64
+#~ msgid "LinkRequest.Email.IsEmailValidatorError"
+#~ msgstr "Incorrect email address"
+
+#: src/components/LocalLinkRequest.js:65
+#~ msgid "LinkRequest.Email.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 100 characters"
+
+#: src/components/LocalLinkRequest.js:67
+#: src/components/LocalPasswordReset.js:69
+#: src/components/LocalUserLogin.js:84
+#: src/components/LocalUserRegister.js:84
+msgid "Email address"
+msgstr "Email address"
+
+#: src/components/LocalLinkRequest.js:69
+#~ msgid "LinkRequest.Email.Label"
+#~ msgstr "Email address"
+
+#: src/components/LocalLinkRequest.js:76
+msgid "LinkRequest.SubmitButton.SendPasswordResetLink"
+msgstr "Send Password Reset Link"
+
+#: src/components/LocalPasswordReset.js:66
+#~ msgid "PasswordReset.Email.IsEmailValidatorError"
+#~ msgstr "Incorrect email address"
+
+#: src/components/LocalPasswordReset.js:67
+#~ msgid "PasswordReset.Email.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 100 characters"
+
+#: src/components/LocalPasswordReset.js:68
+#~ msgid "You can not type in more than "
+#~ msgstr "You can not type in more than "
+
+#: src/components/LocalPasswordReset.js:72
+#~ msgid "PasswordReset.Email.Label"
+#~ msgstr "Email address"
+
+#: src/components/LocalPasswordReset.js:79
+#: src/components/LocalUserLogin.js:93
+#: src/components/LocalUserRegister.js:93
+msgid "Must have at least {0} characters"
+msgstr "Must have at least {0} characters"
+
+#: src/components/LocalPasswordReset.js:83
+#~ msgid "PasswordReset.Password.MinLengthValidatorError"
+#~ msgstr "Must have at least 8 characters"
+
+#: src/components/LocalPasswordReset.js:84
+#: src/components/LocalUserLogin.js:98
+msgid "Password"
+msgstr "Password"
+
+#: src/components/LocalPasswordReset.js:84
+#~ msgid "PasswordReset.Password.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 50 characters"
+
+#: src/components/LocalPasswordReset.js:88
+#~ msgid "PasswordReset.Password.Label"
+#~ msgstr "Password"
+
+#: src/components/LocalPasswordReset.js:93
+#: src/components/LocalUserRegister.js:107
+msgid "Needs to be the same password as above"
+msgstr "Needs to be the same password as above"
+
+#: src/components/LocalPasswordReset.js:97
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: src/components/LocalPasswordReset.js:101
+#~ msgid "PasswordReset.RepeatedPassword.Label"
+#~ msgstr "Confirm password"
+
+#: src/components/LocalPasswordReset.js:97
+#~ msgid "PasswordReset.RepeatedPassword.ValidationError.EqualsField"
+#~ msgstr "Needs to be the same password as above"
+
+#: src/components/LocalPasswordReset.js:109
+msgid "PasswordReset.SubmitButton.ResetPassword"
+msgstr "Reset Password"
+
+#: src/components/LocalUserLogin.js:101
+#~ msgid "LoginForm.Password.Label"
+#~ msgstr "Password"
+
+#: src/components/LocalUserLogin.js:117
+msgid "Remember me"
+msgstr "Remember me"
+
+#: src/components/LocalUserLogin.js:120
+#~ msgid "LoginForm.RememberMe.Label"
+#~ msgstr "Remember me"
+
+#: src/components/LocalUserLogin.js:80
+#~ msgid "LoginForm.Email.IsEmailValidatorError"
+#~ msgstr "Incorrect email address"
+
+#: src/components/LocalUserLogin.js:81
+#~ msgid "LoginForm.Email.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 255 characters"
+
+#: src/components/LocalUserLogin.js:85
+#~ msgid "LoginForm.Email.Label"
+#~ msgstr "Email address"
+
+#: src/components/LocalUserLogin.js:96
+#~ msgid "LoginForm.Password.MinLengthValidatorError"
+#~ msgstr "Must have at least 8 characters"
+
+#: src/components/LocalUserLogin.js:97
+#~ msgid "LoginForm.Password.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 50 characters"
+
+#: src/components/LocalUserLogin.js:128
+msgid "LoginForm.SubmitButton.Log_in"
+msgstr "Log in"
+
+#: src/components/LocalUserRegister.js:66
+msgid "Too short"
+msgstr "Too short"
+
+#: src/components/LocalUserRegister.js:71
+msgid "Desired username"
+msgstr "Desired username"
+
+#: src/components/LocalUserRegister.js:102
+#~ msgid "RegisterForm.Password.Label"
+#~ msgstr "Create a password"
+
+#: src/components/LocalUserRegister.js:65
+#~ msgid "RegisterForm.Password.MinLengthValidatorError"
+#~ msgstr "Too short"
+
+#: src/components/LocalUserRegister.js:66
+#~ msgid "RegisterForm.Password.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 255 characters"
+
+#: src/components/LocalUserRegister.js:70
+#~ msgid "RegisterForm.Username.Label"
+#~ msgstr "Desired username"
+
+#: src/components/LocalUserRegister.js:81
+#~ msgid "RegisterForm.Email.IsEmailValidatorError"
+#~ msgstr "Incorrect email address"
+
+#: src/components/LocalUserRegister.js:82
+#~ msgid "RegisterForm.Email.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 255 characters"
+
+#: src/components/LocalUserRegister.js:86
+#~ msgid "RegisterForm.Email.Label"
+#~ msgstr "Email address"
+
+#: src/components/LocalUserRegister.js:97
+#~ msgid "RegForm.Password.MinLengthValidatorError"
+#~ msgstr "Must have at least 8 characters"
+
+#: src/components/LocalUserRegister.js:98
+#~ msgid "RegForm.Password.MaxLengthValidatorError"
+#~ msgstr "You can not type in more than 50 characters"
+
+#: src/components/LocalUserRegister.js:98
+msgid "Create a password"
+msgstr "Create a password"
+
+#: src/components/LocalUserRegister.js:111
+msgid "Enter password again"
+msgstr "Enter password again"
+
+#: src/components/LocalUserRegister.js:111
+#~ msgid "RegisterDialoq.RepeatedPassword.ValidationError.EqualsField"
+#~ msgstr "Needs to be the same password as above"
+
+#: src/components/LocalUserRegister.js:115
+#~ msgid "RegisterForm.RepeatedPassword.Label"
+#~ msgstr "Enter password again"
+
+#: src/components/LocalUserRegister.js:123
+msgid "RegisterForm.SubmitButton.Register"
+msgstr "Register"
+
+#: src/components/Login.js:66
+#: src/components/Register.js:70
+msgid "or with"
+msgstr "or with"
+
+#: src/components/LoginRegister.js:187
+msgid "LoginRegister.TabLabel.Register"
+msgstr "Register"
+
+#: src/components/LoginRegister.js:191
+msgid "LoginRegister.TabLabel.Login"
+msgstr "Login"
+
+#: src/components/LoginRegisterForm.js:222
+msgid "Demo"
+msgstr "Demo"
+
+#: src/components/PasswordReqest.js:78
+msgid "PasswordRequest.TabLabel.ResetPassword"
+msgstr "Reset Password"
+
+#: src/components/PasswordRequestForm.js:74
+msgid "The email with the reset link has been sent successfully!"
+msgstr "The email with the reset link has been sent successfully!"
+
+#: src/components/PasswordReset.js:78
+msgid "PasswordReset.TabLabel.ResetPassword"
+msgstr "Reset Password"
+
+#: src/components/PasswordResetForm.js:73
+msgid "The password reset has been made successfully!"
+msgstr "The password reset has been made successfully!"
+
+#: src/components/SnackbarMessages.js:31
+#: src/components/Snackbars.js:88
+msgid "success.fileload.successfull"
+msgstr "File is loaded successfully!"
+
+#: src/components/Snackbars.js:61
+msgid "pleaseTryAgainLater"
+msgstr "Please, try again later."
+
+#: src/components/Snackbars.js:62
+msgid "pleaseCheckInternetConnection"
+msgstr "Please, check Internet connection."
+
+#: src/components/Snackbars.js:111
+#~ msgid "error.fileload.tooBigFileSize"
+#~ msgstr "File is too big. Max file size is 3 MiB."
+
+#: src/components/Snackbars.js:113
+#~ msgid "error.fileload.fileErrors1"
+#~ msgstr "Error in {0} line."
+
+#: src/components/Snackbars.js:114
+#~ msgid "error.fileload.fileErrors2"
+#~ msgstr "{0, plural, one {There is # erroneous line in the file.} other {There are # erroneous lines in the file.}}"
+
+# msgid "error.fileload.invalidExtension"
+# msgstr "Invalid file selected <0>{0}</0>."
+#: src/components/Snackbars.js:88
+#: src/components/Snackbars.js:88
+#~ msgid "Invalid file selected <0>{0}</0>.<1/>Valid file extentions are <2>.csv</2>, <3>.tsv</3> and <4>.txt</4>."
+#~ msgstr "Invalid file selected <0>{0}</0>.<1/>Valid file extentions are <2>.csv</2>, <3>.tsv</3> and <4>.txt</4>."
+
+#: src/components/Snackbars.js:88
+#~ msgid "Invalid file selected <0>{fn}</0>.<1>Valid file extentions are <0>.csv</0>, <0>.tsv</0> and <0>.txt</0>."
+#~ msgstr "Invalid file selected <0>{fn}</0>.<1>Valid file extentions are <0>.csv</0>, <0>.tsv</0> and <0>.txt</0>."
+
+#: src/components/Snackbars.js:90
+msgid "success.fileUpload.successfull"
+msgstr "File is uploaded successfully!"
+
+#: src/components/Snackbars.js:92
+msgid "error.fileload.browserNotSupportingFileLoad"
+msgstr "Unfortunately, your browser does not support file loading."
+
+#: src/components/Snackbars.js:109
+#~ msgid "error.fileload.fileErrors"
+#~ msgstr "{0, plural, one {<0>Error in <1>{1}</1> line.<2/>There are <3>#</3> erroneous line in the file.</0>} other {<4>Error in <5>{2}</5> line.<6/>There are <7>#</7> erroneous lines in the file.</4>}}"
+
+#: src/components/Snackbars.js:109
+#~ msgid "Error in {0} line."
+#~ msgstr "Error in {0} line."
+
+#: src/components/Snackbars.js:96
+#~ msgid "error.fileload.invalidExtension2"
+#~ msgstr "Valid file extentions are <0>.csv</0>, <1>.tsv</1> and <2>.txt</2>."
+
+#: src/components/Snackbars.js:109
+msgid "error.fileload.notFound"
+msgstr "File not found."
+
+#: src/components/Snackbars.js:111
+msgid "error.fileload.failed"
+msgstr "Failed to load file."
+
+#: src/components/Snackbars.js:113
+msgid "error.fileload.whileReading"
+msgstr "Error while reading file."
+
+#: src/components/Snackbars.js:115
+msgid "error.fileload.notReadable"
+msgstr "File is not readable."
+
+#: src/components/Snackbars.js:117
+#~ msgid "{0, plural, one {There is # erroneous line in the file.} other {There are # erroneous lines in the file.}}"
+#~ msgstr "{0, plural, one {There is # erroneous line in the file.} other {There are # erroneous lines in the file.}}"
+
+#: src/components/Snackbars.js:141
+#~ msgid "success.register.registeredLoggedin"
+#~ msgstr "Congrats! You are successfully registered and logged in!"
+
+#: src/components/Snackbars.js:143
+msgid "info.fileload.fileReadyForLoading"
+msgstr "File ready to be loaded."
+
+#: src/components/Snackbars.js:145
+msgid "info.fileload.cancelled"
+msgstr "File load is cancelled."
+
+#: src/components/Snackbars.js:148
+msgid "error.fileUpload.detectLanguage"
+msgstr "Error during language detection.<0/>Please, check Internet connection."
+
+#: src/components/Snackbars.js:152
+msgid "error.fileUpload.motherLanguageNeeded"
+msgstr "Please, fill in the fields using mother language."
+
+#: src/components/Snackbars.js:154
+msgid "error.fileUpload.badUrl"
+msgstr "Error of signed URL."
+
+#: src/components/Snackbars.js:156
+msgid "error.fileUpload.uploadFailure"
+msgstr "Failure of uploading file."
+
+#: src/components/Snackbars.js:158
+msgid "error.fileUpload.notUniqueWl"
+msgstr "Not unique name of wordlist."
+
+#: src/components/Snackbars.js:161
+msgid "success.register.success"
+msgstr "You have been registered and logged in successfully."
+
+#: src/components/Snackbars.js:163
+msgid "error.register.validationError"
+msgstr "Wrong credentials."
+
+#: src/components/Snackbars.js:165
+msgid "error.register.failure"
+msgstr "Oops! Server connection error.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:169
+msgid "success.login.success"
+msgstr "You have been logged in successfully."
+
+#: src/components/Snackbars.js:172
+msgid "error.login.failure"
+msgstr "Oops! Login is failed.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:175
+msgid "error.auth.failed"
+msgstr "These credentials do not match our records."
+
+#: src/components/Snackbars.js:180
+msgid "info.subspecs.noItemsAvailable"
+msgstr "No options available. Start typing new one."
+
+#: src/components/Snackbars.js:185
+msgid "error.tooManyRequests"
+msgstr "Too many requests.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:188
+msgid "error.validationError"
+msgstr "Wrong credentials."
+
+#: src/components/Snackbars.js:191
+msgid "error.request.failure"
+msgstr "Unforseen server error.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:194
+msgid "error.response.status"
+msgstr "Wrong status: <0>{0}</0>.<1/>Please, try again later."
+
+#: src/components/Snackbars.js:205
+msgid "success.logout.success"
+msgstr "You have been logged out successfully."
+
+#: src/components/Snackbars.js:208
+msgid "error.logout.failure"
+msgstr "Unforseen server error.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:213
+msgid "success.passwordRequest.emailSent"
+msgstr "A password reset email has been sent successfully."
+
+#: src/components/Snackbars.js:216
+msgid "error.passwordRequest.validationError"
+msgstr "Wrong credentials."
+
+#: src/components/Snackbars.js:219
+msgid "error.passwordRequest.emailNotSent"
+msgstr "A password reset email has not been sent.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:224
+msgid "success.passwordReset.success"
+msgstr "You have reset password successfully."
+
+#: src/components/Snackbars.js:227
+msgid "error.passwordReset.validationError"
+msgstr "Wrong credentials."
+
+#: src/components/Snackbars.js:230
+msgid "error.passwordReset.failure"
+msgstr "Failed to reset password.<0/>Please, try again later."
+
+#: src/components/Snackbars.js:235
+msgid "success.verificationEmailResent"
+msgstr "Verification email has been resent successfully."
+
+#: src/components/Snackbars.js:239
+msgid "success.providerLogin.success"
+msgstr "You have been logged in successfully."
+
+#: src/components/Snackbars.js:242
+msgid "error.providerLogin.failure"
+msgstr "Oops! Login is failed.<0/>Please, try again later."
+
+#: src/components/Stages/Stage1.js:10
+#~ msgid "..."
+#~ msgstr "..."
+
+#: src/components/Stages/Stage1.js:15
+msgid "Stage 1"
+msgstr "Stage 1"
+
+#: src/components/VerificationNotice.js:95
+msgid "VerificationNotice.TabLabel.VerifyYourEmailAddress"
+msgstr "Verify Your Email Address"
+
+#: src/components/VerificationNotice.js:106
+msgid "A fresh verification link has been sent to your email address."
+msgstr "A fresh verification link has been sent to your email address."
+
+#: src/components/VerificationNotice.js:108
+msgid "Before proceeding, please check your email for a verification link."
+msgstr "Before proceeding, please check your email for a verification link."
+
+#: src/components/VerificationNotice.js:110
+msgid "If you did not receive the email,"
+msgstr "If you did not receive the email,"
+
+#: src/components/VerificationNotice.js:119
+msgid "VerificationNotice.SubmitButton.clickHereToRequstAnother"
+msgstr "click here to request another"
+
+#: src/components/WordlistTab1.js:348
+msgid "Uploading…"
+msgstr "Uploading…"
+
+#: src/components/WordlistTab1.js:458
+msgid "Not detected"
+msgstr "Not detected"
+
+#: src/components/WordlistTab1.js:459
+#: src/components/WordlistTab2.js:332
+msgid "Specialty field"
+msgstr "Specialty field"
+
+#: src/components/WordlistTab1.js:460
+msgid "Subspecialty field"
+msgstr "Subspecialty field"
+
+#: src/components/WordlistTab1.js:486
+msgid "Select file"
+msgstr "Select file"
+
+#: src/components/WordlistTab1.js:497
+msgid "UTF-8 .tsv or .csv text file"
+msgstr "UTF-8 .tsv or .csv text file"
+
+#: src/components/WordlistTab1.js:596
+msgid "Saving on server"
+msgstr "Saving on server"
+
+#: src/components/WordlistTab1.js:617
+msgid "Name"
+msgstr "Name"
+
+#: src/components/WordlistTab1.js:625
+msgid "wordlist.tab.namePlaceholder"
+msgstr "Please, input here name using the mother language."
+
+#: src/components/WordlistTab1.js:639
+msgid "Description"
+msgstr "Description"
+
+#: src/components/WordlistTab1.js:650
+msgid "wordlist.tab.descriptionPlaceholder"
+msgstr "Please, input here description using the mother language."
+
+#: src/components/WordlistTab1.js:700
+msgid "settingsTab1.subspecialties.addPhraseBegin"
+msgstr "Add \""
+
+#: src/components/WordlistTab1.js:701
+msgid "settingsTab1.subspecialties.changePhraseBegin"
+msgstr "Change to \""
+
+#: src/components/WordlistTab1.js:703
+msgid "settingsTab1.subspecialties.addPhraseEnd"
+msgstr "\""
+
+#: src/components/WordlistTab1.js:753
+msgid "I agree to the"
+msgstr "I agree to the"
+
+#: src/components/WordlistTab1.js:759
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: src/components/WordlistTab1.js:761
+msgid "and"
+msgstr "and"
+
+#: src/components/WordlistTab1.js:766
+msgid "Private Policy"
+msgstr "Private Policy"
+
+#: src/components/WordlistTab1.js:797
+msgid "Upload"
+msgstr "Upload"
+
+#: src/components/WordlistTab2.js:331
+msgid "Not defined"
+msgstr "Not defined"
+
+#: src/components/WordlistTab2.js:333
+msgid "Subspecialty fields"
+msgstr "Subspecialty fields"
+
+#: src/components/WordlistTab2.js:334
+msgid "Sort By"
+msgstr "Sort By"
+
+#: src/components/WordlistTab2.js:337
+msgid "(applied)"
+msgstr "(applied)"
+
+#: src/components/WordlistTab2.js:337
+msgid "(not applied)"
+msgstr "(not applied)"
+
+#: src/components/WordlistTab2.js:338
+msgid "Filter Limits"
+msgstr "Filter Limits"
+
+#: src/components/WordlistTab2.js:341
+msgid "Min"
+msgstr "Min"
+
+#: src/components/WordlistTab2.js:341
+msgid "Max"
+msgstr "Max"
+
+#: src/components/WordlistTab2.js:427
+msgid "Word list"
+msgstr "Word list"
+
+#: src/components/WordlistTab2.js:451
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+#: src/components/WordlistTab2.js:455
+msgid "Items"
+msgstr "Items"
+
+#: src/components/WordlistTab2.js:460
+msgid "Size"
+msgstr "Size"
+
+#: src/components/WordlistTabs.js:137
+msgid "Custom word list"
+msgstr "Custom word list"
+
+#: src/components/WordlistTabs.js:146
+msgid "Server word list"
+msgstr "Server word list"
+
+#: src/data/SpecialtyFields.js:14
+msgid "Accounting"
+msgstr "Accounting"
+
+#: src/data/SpecialtyFields.js:15
+msgid "Advertising / Public Relations"
+msgstr "Advertising / Public Relations"
+
+#: src/data/SpecialtyFields.js:16
+msgid "Aerospace / Aviation / Space"
+msgstr "Aerospace / Aviation / Space"
+
+#: src/data/SpecialtyFields.js:17
+msgid "Agriculture"
+msgstr "Agriculture"
+
+#: src/data/SpecialtyFields.js:18
+msgid "Animal Husbandry / Livestock / Veterinary"
+msgstr "Animal Husbandry / Livestock / Veterinary"
+
+#: src/data/SpecialtyFields.js:19
+msgid "Anthropology"
+msgstr "Anthropology"
+
+#: src/data/SpecialtyFields.js:20
+msgid "Archaeology"
+msgstr "Archaeology"
+
+#: src/data/SpecialtyFields.js:21
+msgid "Architecture"
+msgstr "Architecture"
+
+#: src/data/SpecialtyFields.js:22
+msgid "Art, Arts & Crafts, Painting"
+msgstr "Art, Arts & Crafts, Painting"
+
+#: src/data/SpecialtyFields.js:23
+msgid "Astronomy & Space"
+msgstr "Astronomy & Space"
+
+#: src/data/SpecialtyFields.js:24
+msgid "Automation & Robotics"
+msgstr "Automation & Robotics"
+
+#: src/data/SpecialtyFields.js:25
+msgid "Automotive / Cars & Trucks"
+msgstr "Automotive / Cars & Trucks"
+
+#: src/data/SpecialtyFields.js:26
+msgid "Biology: General"
+msgstr "Biology: General"
+
+#: src/data/SpecialtyFields.js:27
+msgid "Biology: Bioengineering"
+msgstr "Biology: Bioengineering"
+
+#: src/data/SpecialtyFields.js:28
+msgid "Biology: Biochemistry"
+msgstr "Biology: Biochemistry"
+
+#: src/data/SpecialtyFields.js:29
+msgid "Biology: Microbiology"
+msgstr "Biology: Microbiology"
+
+#: src/data/SpecialtyFields.js:30
+msgid "Botany"
+msgstr "Botany"
+
+#: src/data/SpecialtyFields.js:31
+msgid "Building / Construction"
+msgstr "Building / Construction"
+
+#: src/data/SpecialtyFields.js:32
+msgid "Business / Commerce"
+msgstr "Business / Commerce"
+
+#: src/data/SpecialtyFields.js:33
+msgid "Cars / Auto"
+msgstr "Cars / Auto"
+
+#: src/data/SpecialtyFields.js:34
+msgid "Certificates, Diplomas, Licenses, CVs"
+msgstr "Certificates, Diplomas, Licenses, CVs"
+
+#: src/data/SpecialtyFields.js:35
+msgid "Chemistry: Chemistry Science / Engineering"
+msgstr "Chemistry: Chemistry Science / Engineering"
+
+#: src/data/SpecialtyFields.js:36
+msgid "Cinema / Films / TV / Drama"
+msgstr "Cinema / Films / TV / Drama"
+
+#: src/data/SpecialtyFields.js:37
+msgid "Computers: General"
+msgstr "Computers: General"
+
+#: src/data/SpecialtyFields.js:38
+msgid "Computers: Hardware"
+msgstr "Computers: Hardware"
+
+#: src/data/SpecialtyFields.js:39
+msgid "Computers: Software"
+msgstr "Computers: Software"
+
+#: src/data/SpecialtyFields.js:40
+msgid "Computers: Systems, Networks"
+msgstr "Computers: Systems, Networks"
+
+#: src/data/SpecialtyFields.js:41
+msgid "Construction / Civil Engineering / Building"
+msgstr "Construction / Civil Engineering / Building"
+
+#: src/data/SpecialtyFields.js:42
+msgid "Cooking / Culinary"
+msgstr "Cooking / Culinary"
+
+#: src/data/SpecialtyFields.js:43
+msgid "Cosmetics, Beauty"
+msgstr "Cosmetics, Beauty"
+
+#: src/data/SpecialtyFields.js:44
+msgid "Economics"
+msgstr "Economics"
+
+#: src/data/SpecialtyFields.js:45
+msgid "Education / Pedagogy"
+msgstr "Education / Pedagogy"
+
+#: src/data/SpecialtyFields.js:46
+msgid "Electronics / Electical Engineering"
+msgstr "Electronics / Electical Engineering"
+
+#: src/data/SpecialtyFields.js:47
+msgid "Energy / Power Generation"
+msgstr "Energy / Power Generation"
+
+#: src/data/SpecialtyFields.js:48
+msgid "Engineering: General"
+msgstr "Engineering: General"
+
+#: src/data/SpecialtyFields.js:49
+msgid "Environment & Ecology"
+msgstr "Environment & Ecology"
+
+#: src/data/SpecialtyFields.js:50
+msgid "Esoteric practices"
+msgstr "Esoteric practices"
+
+#: src/data/SpecialtyFields.js:53
+msgid "Finance: General"
+msgstr "Finance: General"
+
+#: src/data/SpecialtyFields.js:54
+msgid "Fisheries"
+msgstr "Fisheries"
+
+#: src/data/SpecialtyFields.js:55
+msgid "Folklore"
+msgstr "Folklore"
+
+#: src/data/SpecialtyFields.js:56
+msgid "Food & Drink"
+msgstr "Food & Drink"
+
+#: src/data/SpecialtyFields.js:57
+msgid "Forestry / Wood / Timber"
+msgstr "Forestry / Wood / Timber"
+
+#: src/data/SpecialtyFields.js:58
+msgid "Furniture / Household Appliances"
+msgstr "Furniture / Household Appliances"
+
+#: src/data/SpecialtyFields.js:59
+msgid "Games / Video Games / Gaming / Casino"
+msgstr "Games / Video Games / Gaming / Casino"
+
+#: src/data/SpecialtyFields.js:60
+msgid "Genealogy"
+msgstr "Genealogy"
+
+#: src/data/SpecialtyFields.js:61
+msgid "General / Conversation / Greetings / Letters"
+msgstr "General / Conversation / Greetings / Letters"
+
+#: src/data/SpecialtyFields.js:62
+msgid "Genetics"
+msgstr "Genetics"
+
+#: src/data/SpecialtyFields.js:63
+msgid "Geography"
+msgstr "Geography"
+
+#: src/data/SpecialtyFields.js:64
+msgid "Geology"
+msgstr "Geology"
+
+#: src/data/SpecialtyFields.js:65
+msgid "Government / Politics"
+msgstr "Government / Politics"
+
+#: src/data/SpecialtyFields.js:66
+msgid "History"
+msgstr "History"
+
+#: src/data/SpecialtyFields.js:67
+msgid "Human Resources"
+msgstr "Human Resources"
+
+#: src/data/SpecialtyFields.js:68
+msgid "Idioms / Maxims / Sayings"
+msgstr "Idioms / Maxims / Sayings"
+
+#: src/data/SpecialtyFields.js:69
+msgid "Insurance"
+msgstr "Insurance"
+
+#: src/data/SpecialtyFields.js:70
+msgid "International Organizations / Cooperation"
+msgstr "International Organizations / Cooperation"
+
+#: src/data/SpecialtyFields.js:71
+msgid "Internet, e-Commerce"
+msgstr "Internet, e-Commerce"
+
+#: src/data/SpecialtyFields.js:72
+msgid "Investment / Securities"
+msgstr "Investment / Securities"
+
+#: src/data/SpecialtyFields.js:73
+msgid "IT (Information Technology)"
+msgstr "IT (Information Technology)"
+
+#: src/data/SpecialtyFields.js:74
+msgid "Journalism"
+msgstr "Journalism"
+
+#: src/data/SpecialtyFields.js:75
+msgid "Law: General"
+msgstr "Law: General"
+
+#: src/data/SpecialtyFields.js:76
+msgid "Law: Contract(s)"
+msgstr "Law: Contract(s)"
+
+#: src/data/SpecialtyFields.js:77
+msgid "Law: Patents, Trademarks, Copyright"
+msgstr "Law: Patents, Trademarks, Copyright"
+
+#: src/data/SpecialtyFields.js:78
+msgid "Law: Taxation & Customs"
+msgstr "Law: Taxation & Customs"
+
+#: src/data/SpecialtyFields.js:79
+msgid "Linguistics"
+msgstr "Linguistics"
+
+#: src/data/SpecialtyFields.js:81
+msgid "Management"
+msgstr "Management"
+
+#: src/data/SpecialtyFields.js:82
+msgid "Manufacturing"
+msgstr "Manufacturing"
+
+#: src/data/SpecialtyFields.js:84
+msgid "Marketing / Market Research"
+msgstr "Marketing / Market Research"
+
+#: src/data/SpecialtyFields.js:85
+msgid "Materials: General"
+msgstr "Materials: General"
+
+#: src/data/SpecialtyFields.js:86
+msgid "Materials: Ceramics"
+msgstr "Materials: Ceramics"
+
+#: src/data/SpecialtyFields.js:87
+msgid "Materials: Glass"
+msgstr "Materials: Glass"
+
+#: src/data/SpecialtyFields.js:88
+msgid "Materials: Plastics"
+msgstr "Materials: Plastics"
+
+#: src/data/SpecialtyFields.js:89
+msgid "Materials: Wood"
+msgstr "Materials: Wood"
+
+#: src/data/SpecialtyFields.js:90
+msgid "Mathematics & Statistics"
+msgstr "Mathematics & Statistics"
+
+#: src/data/SpecialtyFields.js:91
+msgid "Mechanics / Mech Engineering"
+msgstr "Mechanics / Mech Engineering"
+
+#: src/data/SpecialtyFields.js:92
+msgid "Media / Multimedia"
+msgstr "Media / Multimedia"
+
+#: src/data/SpecialtyFields.js:93
+msgid "Medical: General"
+msgstr "Medical: General"
+
+#: src/data/SpecialtyFields.js:94
+msgid "Medical: Cardiology"
+msgstr "Medical: Cardiology"
+
+#: src/data/SpecialtyFields.js:95
+msgid "Medical: Dentistry"
+msgstr "Medical: Dentistry"
+
+#: src/data/SpecialtyFields.js:96
+msgid "Medical: Health Care"
+msgstr "Medical: Health Care"
+
+#: src/data/SpecialtyFields.js:97
+msgid "Medical: Instruments"
+msgstr "Medical: Instruments"
+
+#: src/data/SpecialtyFields.js:98
+msgid "Medical: Pharmaceuticals"
+msgstr "Medical: Pharmaceuticals"
+
+#: src/data/SpecialtyFields.js:99
+msgid "Metallurgy / Casting"
+msgstr "Metallurgy / Casting"
+
+#: src/data/SpecialtyFields.js:100
+msgid "Meteorology"
+msgstr "Meteorology"
+
+#: src/data/SpecialtyFields.js:101
+msgid "Military / Defense"
+msgstr "Military / Defense"
+
+#: src/data/SpecialtyFields.js:102
+msgid "Mining & Minerals / Gems"
+msgstr "Mining & Minerals / Gems"
+
+#: src/data/SpecialtyFields.js:103
+msgid "Music"
+msgstr "Music"
+
+#: src/data/SpecialtyFields.js:104
+msgid "Names (personal, company)"
+msgstr "Names (personal, company)"
+
+#: src/data/SpecialtyFields.js:105
+msgid "Nuclear Engineering / Science"
+msgstr "Nuclear Engineering / Science"
+
+#: src/data/SpecialtyFields.js:106
+msgid "Nutrition"
+msgstr "Nutrition"
+
+#: src/data/SpecialtyFields.js:107
+msgid "Paper / Paper Manufacturing"
+msgstr "Paper / Paper Manufacturing"
+
+#: src/data/SpecialtyFields.js:108
+msgid "Patents"
+msgstr "Patents"
+
+#: src/data/SpecialtyFields.js:109
+msgid "Petroleum Engineering / Science"
+msgstr "Petroleum Engineering / Science"
+
+#: src/data/SpecialtyFields.js:110
+msgid "Philosophy"
+msgstr "Philosophy"
+
+#: src/data/SpecialtyFields.js:111
+msgid "Photography / Imaging / Graphic Arts"
+msgstr "Photography / Imaging / Graphic Arts"
+
+#: src/data/SpecialtyFields.js:112
+msgid "Physics"
+msgstr "Physics"
+
+#: src/data/SpecialtyFields.js:113
+msgid "Poetry & Literature"
+msgstr "Poetry & Literature"
+
+#: src/data/SpecialtyFields.js:114
+msgid "Printing & Publishing"
+msgstr "Printing & Publishing"
+
+#: src/data/SpecialtyFields.js:115
+msgid "Psychology"
+msgstr "Psychology"
+
+#: src/data/SpecialtyFields.js:116
+msgid "Real Estate"
+msgstr "Real Estate"
+
+#: src/data/SpecialtyFields.js:117
+msgid "Religion"
+msgstr "Religion"
+
+#: src/data/SpecialtyFields.js:118
+msgid "Retail"
+msgstr "Retail"
+
+#: src/data/SpecialtyFields.js:119
+msgid "Safety"
+msgstr "Safety"
+
+#: src/data/SpecialtyFields.js:120
+msgid "Science: General"
+msgstr "Science: General"
+
+#: src/data/SpecialtyFields.js:121
+msgid "Ships, Sailing, Maritime"
+msgstr "Ships, Sailing, Maritime"
+
+#: src/data/SpecialtyFields.js:122
+msgid "Slang"
+msgstr "Slang"
+
+#: src/data/SpecialtyFields.js:123
+msgid "Social Science, Sociology, Ethics, etc."
+msgstr "Social Science, Sociology, Ethics, etc."
+
+#: src/data/SpecialtyFields.js:124
+msgid "Sports / Fitness / Recreation"
+msgstr "Sports / Fitness / Recreation"
+
+#: src/data/SpecialtyFields.js:125
+msgid "Surveying"
+msgstr "Surveying"
+
+#: src/data/SpecialtyFields.js:126
+msgid "Telecom(munications)"
+msgstr "Telecom(munications)"
+
+#: src/data/SpecialtyFields.js:127
+msgid "Textiles / Clothing / Fashion"
+msgstr "Textiles / Clothing / Fashion"
+
+#: src/data/SpecialtyFields.js:128
+msgid "Tourism & Travel"
+msgstr "Tourism & Travel"
+
+#: src/data/SpecialtyFields.js:129
+msgid "Wine / Oenology / Viticulture"
+msgstr "Wine / Oenology / Viticulture"
+
+#: src/data/SpecialtyFields.js:130
+msgid "Zoology"
+msgstr "Zoology"
+
+#: src/data/SpecialtyFields.js:131
+msgid "Miscellaneous / Other"
+msgstr "Miscellaneous / Other"
